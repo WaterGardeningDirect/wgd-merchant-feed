@@ -5,7 +5,7 @@
     <link>https://watergardeningdirect.com</link>
     <description>Water Gardening Direct product feed for Google Merchant Centre</description>
     <language>en-gb</language>
-    <!-- Generated: 2026-05-14T01:00:46.897Z | Products: 3089 | Items: 3088 | Skipped (no SKU): 1 -->
+    <!-- Generated: 2026-05-15T01:00:41.857Z | Products: 3090 | Items: 3089 | Skipped (no SKU): 1 -->
     <item>
       <g:id>OAW121</g:id>
       <g:title><![CDATA[Oase Watercourse Spring / Spillway Box 15000]]></g:title>
@@ -275,10 +275,10 @@
     <item>
       <g:id>SMW087</g:id>
       <g:title><![CDATA[Smart Solar - Pagoda Solar Birdbath Water Feature]]></g:title>
-      <g:description><![CDATA[The Pagoda Solar Birdbath Water Feature takes inspiration from traditional oriental pagoda architecture and would look attractive in most gardens, but particularly in a more formal area or within a Japanese styled water garden. Water is pumped up from a hidden reservoir to the top where it bubbles over the integrated solar panel and gently pours out of each corner back to the bottom reservoir. This solar birdbath is made from highly detailed polyresin. Solar powered features are easy to install, can be moved around and have no running costs. Supplied with a 1 year guarantee. Dimensions: Height 720mm x Width 470mm x Depth 470mm. Pagoda Solar Birdbath Fountain Features Traditional oriental design Operates in direct sunlight Integrated solar panel & pump system Built-in water level sensor 1 year guarantee Easy to install No running costs Please note that as frost can cause damage to this product it should be stored indoors during cold weather. Please note that this product does not include a battery and requires direct sunlight to function.]]></g:description>
+      <g:description><![CDATA[The Pagoda Solar Birdbath Water Feature takes inspiration from traditional Oriental pagoda architecture and would look attractive in most gardens, but particularly in a more formal area or within a Japanese styled water garden. Water is pumped up from a hidden reservoir to the top, where it bubbles over the integrated solar panel and gently pours out of each corner back to the bottom reservoir. This solar birdbath is made from highly detailed polyresin. Solar powered features are easy to install, can be moved around and have no running costs. Supplied with a 1 year guarantee. This upgraded version of the Chatsworth solar birdbath features a built-in water level sensor, which automatically shuts off the pump if the water level drops too low, helping to prevent damage. Dimensions: Height 720mm x Width 470mm x Depth 470mm. Pagoda Solar Birdbath Fountain Features: Traditional oriental design Operates in direct sunlight Integrated solar panel & pump system Built-in water level sensor for automatic shut-off protection 1 year guarantee Easy to install No running costs Please note that as frost can cause damage to this product, it should be stored indoors during cold weather. Please note that this product does not include a battery and requires direct sunlight to function.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/smart-solar-pagoda-solar-birdbath-water-feature</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Smart-Garden-Products-SMW087-Pagoda-Solar-Fountain-1170529-Pic2_41b303e4-0344-4ea2-8882-e0cfe127b08a.jpg?v=1741255386</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Smart-Garden-Products-SMW087-Pagoda-Round-Solar-Fountain-1170529-Pic2.jpg?v=1778764625</g:image_link>
+      <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
       <g:brand><![CDATA[Smart Solar]]></g:brand>
       <g:mpn>SMW087</g:mpn>
@@ -639,7 +639,7 @@
       <g:description><![CDATA[This 6V AC/DC indoor transformer has a 5m cable with a Jack plug style connector which measures 5.5mm diameter and 12mm long. This 6V AC/DC mains adaptor is used instead of the original solar panel and is suitable for use with the following Smart Solar water features. Neptune Cascade solar water feature Aphrodite Cascade water feature Water Mill solar water feature Rock Fall solar water feature Genoa solar water feature Wychwood solar water feature Fairy Rainfall solar water feature]]></g:description>
       <g:link>https://watergardeningdirect.com/products/smart-solar-6v-ac-dc-mains-adaptor</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Smart-Solar-5v-6v-AC-DC-Mains-Adaptor-Pic1_f566df87-e2f1-4d57-b85b-6f2c8d592829.jpg?v=1734618738</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
       <g:brand><![CDATA[Smart Solar]]></g:brand>
       <g:mpn>SMA001</g:mpn>
@@ -1883,7 +1883,7 @@
       <g:description><![CDATA[This 1m x 6m (3ft 3 Inch x 19ft 8 Inch approx.) Greenseal EPDM pond liner from Gordon Low is a modern 0.75mm thick EPDM pond liner which offers a perfect balance between performance and value and is our most popular rubber liner. With the look, feel and arguably better performance of tradition Butyl but at a significantly lower price Greenseal pond liner is particularly suitable for garden fish ponds and water features . With great flexibility and resistance to temperature change and UV damage this material comes with a lifetime guarantee against material breakdown. This 1m x 6m liner is a total of 6 square metres and could be used and could be used to create a stream of up to 0.4m wide x 5.4m long x 0.2m deep (assuming a 0.1m wide edge overlap)]]></g:description>
       <g:link>https://watergardeningdirect.com/products/1m-x-6m-3ft-3-inch-x-19ft-8-inch-greenseal-epdm-stream-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-GreenSeal-Eco-EPDM-Pond-Liner-Pic1_1580ddb3-c439-47f6-89f2-164516d1f271.jpg?v=1734615068</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>56.94 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>GLL593</g:mpn>
@@ -4693,32 +4693,13 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>OAM017</g:id>
-      <g:title><![CDATA[Oase Skimmer 250 LM - Lake Skimmer]]></g:title>
-      <g:description><![CDATA[The Oase Skimmer 250 which is part of the Lake Management range is a high performance floating skimmer with an integrated pump, which will clean pond and lake surfaces of up to 250 square metres. As a highly effective way of removing surface debris, the Skimmer 250 LM will not only keep the surface clear but will also reduce the amount of debris which would otherwise sink to the bottom of a pond, causing water pollution and feeding algae growth. Unlike fixed skimmers the Oase Skimmer 250 LM is free floating, allowing it to constantly sit at the correct height to ensure maximum debris collection through its 520mm wide skimmer opening. The integrated pump (AquaMax) creates a flowrate of up to 15000 litres per hour, drawing water and debris into the 27 Litre capacity, high quality stainless steel collection basket with a 9mm square mesh. Oase Skimmer 250 LM Technical Details Dimensions 775 x 440 x 590mm. Power consumption 250 watts. Mouth opening 520mm wide. Oase Skimmer 250 LM Features Free Floating, Fully independent Skimmer Maximum flow rate of 15,000 litres an hour / 250 litres a minute. Large Collection slot Easy cleaning with the removal of the 27 litre stainless steel waste basket. 10m mains cable. Guaranteed for 2 years. Suitable for ponds / lakes with surface area up to 250 square metres Oase Skimmer 250 LM Anchor Kit Includes 2 x Stainless Steel Wire Ropes - 3mm x 20m 4 x Stainless Steel Carabineers - 60mm x 6mm 4 x Stainless Steel Screw Clamps - 3mm 2 x Wire Guides - 3mm]]></g:description>
-      <g:link>https://watergardeningdirect.com/products/oase-skimmer-250-lm-lake-skimmer</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Skimmer-250-LM-Lake-Skimmer-Pic1_4e5888b1-cb97-41ef-8e2c-7d6d08ddfa2c.jpg?v=1734618236</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2184.99 GBP</g:price>
-      <g:brand><![CDATA[Oase]]></g:brand>
-      <g:mpn>OAM017</g:mpn>
-      <g:gtin>4010052574806</g:gtin>
-      <g:condition>new</g:condition>
-      <g:product_type><![CDATA[Miscellaneous]]></g:product_type>
-      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard Delivery</g:service>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>OAM020</g:id>
       <g:title><![CDATA[Oase AquaAir ECO 250 - Lake Aerator]]></g:title>
       <g:description><![CDATA[The Oase AquaAir ECO 250 - Lake Aerator is part of the Lake Management range and is a high performance floating Aerator with an integrated pump, which will greatly enhance the Oxygenation of ponds and lakes with a surface area of up to 250 metres square. The Aqua Air 250 LM enriches the water with vital oxygen to aid the development of helpful bacteria, which can decompose contaminants such as ammonia and nitrite as well as preventing odours and silt through stagnation. Unlike fixed air systems the Oase Aqua Air 250 is free floating and can be positioned in quieter parts of a lake that can be particularly prone to low oxygenation due to poor water movement. This high quality Aerator can operate in as little as 500mm of water and its powerful integrated motor can generate up to 26000 litres per hour through the Venturi injector nozzle, which can be rotated to penetrate in to shallow or deep water zones of up to 4m below the surface. Re-designed in 2022 the ECO version of the Oase AquaAir 250 can now be used with the Oase Control (OC) system to adjust the flowrate which reduces the power consumption to between 60w - 440w per hour ( InScenio FM Master or Oase Cloud Controller required, but not included). In addition it also features the Oase Environmental Function Control system which adds Pump blockage and dry run protection. Supplied with a 30m cable, fixing kit and 3 year guarantee. Oase AquaAir ECO 250 Lake Aerator Features Suitable for pond or Lake surfaces up to 250 m² Adjustable injector nozzle for optimal oxygen input Up to 4m penetration depth Powerful Integrated pump produces up 26000 LPH Long life stainless steel elements Low noise underwater operation Includes Fastenings Optimal oxygen supply thanks to small bubbles Operates in as little as 500mm of water 60 - 440w power consumption 30m power cable Oase EFC Pump blockage and dry run protection 3 year guarantee Oase AquaAir ECO 250 Lake Aerator Dimensions Length: 725mm x Width 555mm x Depth 310mm]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquaair-eco-250-lake-aerator</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-AquaAir-ECO-250-LM-Oxygenator-Pic1_12efb062-5c3e-4e68-af58-a5cf85342bc3.jpg?v=1762961128</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>2349.99 GBP</g:price>
+      <g:price>2329.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAM020</g:mpn>
       <g:gtin>4010052871578</g:gtin>
@@ -4733,10 +4714,10 @@
     <item>
       <g:id>OAM007</g:id>
       <g:title><![CDATA[Oase AirFlo 1500 Floating Lake Aerator]]></g:title>
-      <g:description><![CDATA[The Oase AirFlo LM 1.5kw Floating Lake Aerators are a simply stunning solution to ensuring high levels of oxygen within a lake or other large bodies of fresh water. These aerators use a pump with an integrated axial propeller which produces a massive 165,000 l/h flowrate to one of the 3 included nozzles. Using a bayonet connection the medium, large or extra large nozzles can be swapped in seconds to produce any of the three spectacular patterns. The Oase AirFlo LM 1.5kw Floating Lake Aerators are part of the Lake Management range of high performance floating Aerators with an integrated axial propeller pump, which will greatly enhance the Oxygenation of ponds and lakes with a surfaces of up to 5,000 m². The Oase AirFlo LM Floating Lake Aerators enrich the water with vital oxygen to the development of helpful bacteria, which can decompose contaminants such as ammonia/ammoniac and nitrite as well as preventing odours and silt through stagnation. The 1.5kW (230 volts) has a flowrate of 165,000 l/h and are a spectacular solution to Oxygenating large bodies of fresh water. Unlike fixed fountains, this floating design (which is supplied with securing anchors) can be used in deep water and can be moved to a different location if required. The Oase AirFlo LM 1.5kw Floating Lake Aerators are quick and simple to install with a 3 step process 1. Place unit in the water and anchor 2. Using the bayonet connection, fit either the medium, large or extra large nozzle. 3. Connect to an existing power supply The electrical connection on this unit is via an Earthing pin plug and a power box. Supplied with: 50m cable, fixing kit and 2 year guarantee. You can enhance the appearance of the AirFlow LM 1.5kw with Oase lights sets to create a stunning night time feature. Both the Oase LunAqua LED - Floating Fountain Illumination White and RGB are compatible with the Aiflow, but they are limited with a 20m cable. Oase AirFlo LM Floating Lake Aerator Bayonet Nozzle Connection Oase AirFlo LM Floating Lake Aerator Anchor Kit Oase AirFlo LM Floating Lake Aerator Earthing Pin Bayonet Technology Quick fit one of the 3 included fountain heads Free Anchor Kit Easy and secure anchoring of the aerator with this kit which includes 3 x 30m (3mm) thick ashore lines and stakes Free Earthing Pin and Control Box Quick connection with this control box and a 50m power cable Medium Large Extra Large AirFlo 1.5kW 3.5m wide x 0.8m high 5.0m wide x 1.0m high 6.0m wide x 2.0m high Oase AirFlo LM 1.5kw (230v) Floating Lake Aerators Features Suitable for pond or Lake surfaces up to 5000 m² Quick change bayonet nozzle attachment Long life stainless steel elements Low noise underwater operation Can pump up to 12mm solids Includes Fastenings Simple installation 2 year guarantee Optional light sets Oase AirFlo LM 1.5kw (230v) Floating Lake Aerators Technical Details Suitable for ponds / lakes with surface area between 100 m² and 5000 m² 165,000 LPH flowrate 50m power cable Suction depth 4m Minimum water depth 0.9m 1.5kW power consumption Dimensions: 1.15m Dia x 0.95m height]]></g:description>
+      <g:description><![CDATA[The Oase AirFlo LM 1.5kW Floating Lake Aerator is a high-performance floating aeration system designed to improve oxygen levels in lakes and large ponds. Using an integrated axial propeller pump, the unit produces an impressive 165,000 l/h flow rate and includes three interchangeable nozzles to create a choice of decorative water displays. Part of the Oase Lake Management range, the AirFlo LM is suitable for ponds and lakes with surface areas of up to 5,000m². The system helps improve water circulation and oxygenation, supporting beneficial bacteria which break down contaminants such as ammonia and nitrite. Increased oxygen levels and improved circulation can also help reduce stagnant areas, odours and sludge build-up. As well as improving water quality, the AirFlo LM creates an attractive floating fountain display suitable for ornamental lakes, fisheries, golf courses and commercial water features. Unlike fixed fountain systems, the floating design can be installed in deeper water and repositioned if required. The unit is supplied with an anchor kit for secure installation. Installation is quick and straightforward: Place the floating unit into the water and secure using the included anchor kit Select and attach the required nozzle using the bayonet fitting Connect the unit to a suitable power supply The unit is supplied with an earthing pin plug, control box and 50m power cable for installation. You can also enhance the appearance of the AirFlo LM 1.5kW with compatible Oase lighting sets to create an impressive night-time display. Both the Oase LunAqua LED Floating Fountain Illumination White and RGB light sets are compatible with the AirFlo range, although they are limited to a 20m cable length. Oase AirFlo LM Floating Lake Aerator Features Bayonet Technology Quick-fit connection system for fast installation and changing of the three included fountain nozzles. Anchor Kit Included Supplied with 3 x 30m ashore lines and stakes for secure anchoring of the floating aerator. Earthing Pin and Control Box Included Supplied with control box, earthing pin and 50m power cable for straightforward installation. Oase AirFlo LM Floating Lake Aerator Nozzle Performance Medium Nozzle Creates a water display approximately 3.5m wide x 0.8m high. Large Nozzle Creates a water display approximately 5.0m wide x 1.0m high. Extra Large Nozzle Creates a water display approximately 6.0m wide x 2.0m high. Oase AirFlo LM 1.5kW (230V) Floating Lake Aerator Features Suitable for pond and lake surfaces up to 5,000m² Integrated axial propeller pump Quick-change bayonet nozzle attachment system Long-life stainless steel components Low-noise underwater operation Capable of passing solids up to 12mm Floating design for deep water installation Supplied with anchor kit and 50m power cable Simple installation and maintenance Compatible with optional Oase lighting sets 2 year guarantee Oase AirFlo LM 1.5kW (230V) Floating Lake Aerator Technical Details Suitable for ponds and lakes with surface areas between 100m² and 5,000m² Maximum flow rate: 165,000 l/h Power cable length: 50m Maximum suction depth: 4m Minimum water depth: 0.9m Power consumption: 1.5kW Dimensions: 1.15m diameter x 0.95m height]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-airflo-1500-floating-lake-aerator</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-AirFlo-1500-Floating-Lake-Aerator-Pic1_f8a75fbe-8971-43b4-81ed-a74cf6f1e3dd.jpg?v=1734616142</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4989.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAM007</g:mpn>
@@ -5549,7 +5530,7 @@
     <item>
       <g:id>OAP041</g:id>
       <g:title><![CDATA[Oase LunAqua LED - Floating Fountain Illumination - White (3 Light Set) for PondJet / AirFlo / MIDI / MAXI Fountains]]></g:title>
-      <g:description><![CDATA[This is the Oase LunAqua LED - Floating Fountain Illumination - White (3 Light Set) for the Oase Pond PondJet / AirFlo / MIDI / MAXI floating fountain pump for large pond displays. An illuminated fountain has a particularly beautiful effect in the evening and hours of darkness. The Oase LunAqua Power LED Light Set uses a 5.8 watt LED in each light which produces 580 lumens of light (equivalent to a 50w halogen bulb) to ensure an outstanding illumination of the water pattern. The Oase LunAqua LED - Floating Fountain Illumination - White set includes: 3 x Pond Jet LED OC - White Lights (Profi Lux) 1 x Controller with a 20 mains cable 1 x OC Connecting Cable (20m) 3 x Pond Jet LED OC - Light mounting brackets. Please if you wish to remotely control the lights a FM-Master Cloud OC Switch Box (sold separately) is required, it can be used to provide power to the Floating Fountain Light Controller, but most important it allows you to connect the OC cable from the FM-Master Cloud to the light controller. Once connected the FM-Master Cloud can be accessed from a smart phone or tablet using the Oase App and with the introduction of the "Oase Cloud" you can control your OC compatible products from anywhere in the in world. This allows you to switch the lights on/off remotely but also gives access to on/off timer function. Oase LunAqua LED - Floating Fountain Illumination - White (3 Light Set) is covered by a 2 year guarantee, which can be extended to 3 years by registering the guarantee with Oase. Please note that this is the Power LED light set for the Pond Jet Eco Fountain which is not included. For the complete Fountain and Power LED light kit, click here]]></g:description>
+      <g:description><![CDATA[This is the Oase LunAqua LED - Floating Fountain Illumination - White (3 Light Set) for the Oase Pond PondJet / AirFlo / MIDI / MAXI floating fountain pump for large pond displays. An illuminated fountain has a particularly beautiful effect in the evening and hours of darkness. The Oase LunAqua Power LED Light Set uses a 5.8 watt LED in each light which produces 580 lumens of light (equivalent to a 50w halogen bulb) to ensure an outstanding illumination of the water pattern. The Oase LunAqua LED - Floating Fountain Illumination - White set includes: 3 x Pond Jet LED OC - White Lights (Profi Lux) 1 x Controller with a 20 mains cable 1 x OC Connecting Cable (20m) 3 x Pond Jet LED OC - Light mounting brackets. If you wish to remotely control the lights a FM-Master Cloud OC Switch Box (sold separately) is required, it can be used to provide power to the Floating Fountain Light Controller, but most important it allows you to connect the OC cable from the FM-Master Cloud to the light controller. Once connected the FM-Master Cloud can be accessed from a smart phone or tablet using the Oase App and with the introduction of the "Oase Cloud" you can control your OC compatible products from anywhere in the in world. This allows you to switch the lights on/off remotely but also gives access to on/off timer function. Oase LunAqua LED - Floating Fountain Illumination - White (3 Light Set) is covered by a 2 year guarantee, which can be extended to 3 years by registering the guarantee with Oase. Please note that this is the Power LED light set for the Pond Jet Eco Fountain which is not included. For the complete Fountain and Power LED light kit, click here]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-lunaqua-led-floating-fountain-illumination-white-3-light-set-for-pondjet-airflo-midi-maxi-fountains</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-LunAqua-RGB-or-White-LED-Floating-Fountain-Illumination-Pic1_11abf8e1-47ed-40a1-aee0-841327583763.jpg?v=1734618022</g:image_link>
       <g:availability>in stock</g:availability>
@@ -6464,7 +6445,7 @@
       <g:description><![CDATA[The Oase FiltoClear 13000 pressurised pond filters sets are a highly developed range of pressurised filters and top quality pumps which have outstanding filtration properties and are easy to maintain. Oase FiltoClear 13000 Pressurised Pond Filter Sets Features Combination of mechanical biological cleaning and effective UVC technology Including OASE Clear Water Guarantee Ideal for supplying higher elevated watercourses or waterfalls Setup below the surface level of the water is also possible Patented Easy-Clean-Technology for easy and convenient cleaning without opening the filter Easy-to-operate waste outlet function UVC indicator light for monitoring of the UVC clarifier Pollutant level indicator and flow-through indicator All function-regulating parts are arranged so that they are easily accessible in the cover Through burying or covering with a decorative rock cover it can be perfectly integrated in the water garden Perfectly suited for architectural pools thanks to virtually invisible technology High-quality, impact-resistant material Industry leading Oase Aquamax Eco Premium Filter Pumps Highly Developed FiltoClear 13000 Pressurised Pond Filter The Oase FiltoClears now have an improved and unique, easy to operate built-in cleaning system. Simply remove the discharge cap, connect your waste hose (not supplied), pump the cleaning handle up and down removing all the waste and turn the valve to discharge. The benefit of a pressurised filter is the ability for it to be lower than the discharge point, which in many cases makes it easier to conceal. The Oase FiltoClear includes an integral ultra violet light with an indicator window which makes it simple to see at night if the UV bulb is working. The newest design release in 2022 offers several improvements on the previous range - Easier to Clean mechanism, higher wattage lamps, no need to remove the quartz sleeve when changing the lamp, metal clamping ring and a hood over the UV electrical unit. All FiltoClears are supplied with 5m of mains cable and a 2 year guarantee, which can be increased to 3 years by sending off the guarantee card to Oase. Also included are 4 hosetails, one each for the in, out and discharge hoses and one for the other end of the discharge hose. New Top Quality Oase Aquamax Eco Premium 9000 Filter Pumps In 2024 Oase have redesigned the motor for the Aquamax Eco Premium resulting in a quieter, more energy efficient pump (14 - 24% depending on model) which should last longer than their older models (that is saying something). The new motor incorporates Oase's Core 6 Technology with six windings instead of the traditional 4, these windings have also been curved giving smoother running enhancing efficiency and making them quieter. The impellors have been improved and are now effectively handmade glass-fibre reinforced plastic making them much stronger, they can also take solids up to 11mm. These new motors can also be controlled electronically via the Oase App using the DMX technology available in the Oase Control (OC was EGC) range. Individual pumps can be controlled by connecting an Oase AquaMax Eco Pump Control to them or if the pump is part of an installation using other Oase Control products which can be remotely controlled then an Oase Control Cable Adapter can be purchased to link other units. In addition, with all pumps, you have the option of using the secondary inlet port to run an optional Aquamax remote strainer or Remote surface skimmer , both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Just like its predecessor the design retains the seasonal function control (SFC) and can be dry installed below water level(SFC does not work in a dry running installation). The 9000 -21000 models include a separate hosetail to take 50mm hose. Supplied with 10m of mains cable, hosetails, and a 25, 32 and 38mm plastic hose clip. All Oase AquaMax Eco Premium pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. MORE EFFICIENT: Improved efficiency for all six AquaMax Eco Premium 5000-21000 models MORE ECONOMICAL: Lower power consumption all year round thanks to the increased energy efficiency of the motors QUIETER: Garden water features are more peaceful thanks to the now even quieter AquaMax Eco Premium pumps STOPS IN TIME: Reliable protection against blockages and dry running thanks to the built-in OASE Environmental Function Control SMART: OASE Control interface for digital monitoring and regulation of the pump. REQUIREMENTS-BASED: Seasonal Flow Control - now available on all models - ensures greater efficiency by through temperature-adjusted flow rates LOW TEMPERATURE-RESISTANT: Frost-proof down to -20°C APP-COMPATIBLE: Simply download the OASE Control app (from the App Store or via Play Store) and you're ready to go VERSATILE: You can place this pump in dry conditions or submerged underwat]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-filtoclear-13000-filtration-set</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-FiltoClear-13000-OC-Pond-Filter-Set-Pic1.jpg?v=1738763698</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>698.24 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAC182</g:mpn>
@@ -8201,7 +8182,7 @@
       <g:description><![CDATA[The Pontec PondoStar LED Warm 3 Pond Light Sets consist of three small LED lights that have a single LED 1w per light. The "Warm" LED's are around 2700k and each 85 mm diameter LED light has a weighted base for extra stability and rotates through 120 Deg. These lights have a maximum depth of 1m and a rating of IP68 which is much better than many cheap alternatives. Each light connects in a daisy chain with a 1m cable between each light then a 5m cable to the fully weatherproof outdoor transformer which has a 2m mains supply cable. They are ideal for illuminating fountains, ponds, waterfalls as well as gardens and terraces and can be placed above or below the water. Pontec PondoStar LED Warm 3 Pond Light Set Features • Can be used above or below water • Very energy efficient and hence low running costs • 3 Light Set • Warm appearance (around 2700k) • Weatherproof transformer • 1 x 1w LED per light • 1m maximum depth • 2 Year guarantee]]></g:description>
       <g:link>https://watergardeningdirect.com/products/pontec-pondostar-led-warm-3-pond-light-set-max-depth-1-0m</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Pontec-PondoStar-LED-Warm-3-Pond-Light-Set-Pic1_318dee54-57c8-4382-8ea1-bdc26039d120.jpg?v=1734618694</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>49.99 GBP</g:price>
       <g:brand><![CDATA[Pontec]]></g:brand>
       <g:mpn>OAE029</g:mpn>
@@ -25378,7 +25359,7 @@
       <g:title><![CDATA[Lotus Maximus Eco 1200 Impeller (LMER1200)]]></g:title>
       <g:description><![CDATA[This is a genuine replacement Lotus Maximus Eco 1200 Impeller (LMER1200), which is supplied to us by Aquateck to ensure full compatibility with your original product]]></g:description>
       <g:link>https://watergardeningdirect.com/products/lotus-maximus-eco-1200-impeller-lmer1200</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/S_Lotus-Maximus-Eco-1200-Impellor-LOS112-LMER1200.jpg?v=1740746967</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/S_Lotus-Maximus-Eco-1200-Impellor-LOS112-LMER1200-v2.jpg?v=1778756701</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>7.37 GBP</g:price>
       <g:brand><![CDATA[Aquateck]]></g:brand>
@@ -25678,7 +25659,7 @@
       <g:description><![CDATA[This is a genuine replacement Velda T-Flow 5 / 15 / 35 / 75 Tronic Replacement Operating Display (126672), which is supplied to us by Velda to ensure full compatibility with your original product]]></g:description>
       <g:link>https://watergardeningdirect.com/products/velda-t-flow-5-15-35-75-tronic-replacement-operating-display-126672</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Velda-VES057-T-Flow-5-15-35-75-Tronic-Replacement-Operating-Display-126672-1320212_1ca25bdd-a155-4065-a96f-442e368590b4.jpg?v=1734620140</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>89.99 GBP</g:price>
       <g:brand><![CDATA[Velda]]></g:brand>
       <g:mpn>VES057</g:mpn>
@@ -50274,7 +50255,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase ScreenMatic 2 - 140000 - Tank Lid (25544), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-biotec-screenmatic-2-140000-tank-lid-25544</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Spare-Parts-Image_77570342-fab2-4dd1-a1e3-725b3958c442.jpg?v=1740139074</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>188.59 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAS592</g:mpn>
@@ -52781,7 +52762,7 @@
     <item>
       <g:id>OAP032</g:id>
       <g:title><![CDATA[Oase Pond Jet ECO Premium Floating Fountain]]></g:title>
-      <g:description><![CDATA[Oase PondJet Eco Premium – Floating Fountain Pump for Large Ponds & Lakes Bring your pond or lake to life with the Oase PondJet Eco Premium, a high-performance floating fountain pump that creates a stunning water display up to 3.75 metres high. Ideal for large ponds and water features, this self-contained unit combines effortless installation with impressive performance and energy efficiency. Spectacular Floating Fountain Display The PondJet Eco Premium features a powerful pump suspended beneath a float, pushing water through 12 built-in nozzles to form an elegant arching fountain, up to 3.75m high and 3m wide. The floating design means there's no need to build a platform—just 0.5m of water depth is required beneath the unit. Easy to Install & Maintain No platform needed – pump stays above debris and sediment Simple tethering – secure in place or easily move it to shore for maintenance Works in shallow water – only 0.5m depth required below pump Upgraded Power & Efficiency In 2025, Oase upgraded this model with the Aquarius Eco Premium 13500 pump, featuring innovative CORE 6 Technology for: 25% lower energy consumption than previous models Quieter, smoother operation with six curved motor windings A taller fountain display – now up to 3.75m high You can also swap out the nozzle to customise your display using compatible options like the Foam Jet (35-10) or Vulcan (37-2.5). Add optional white or RGB lighting kits to illuminate your fountain in the evening. Dynamic Display & Smart App Control Choose between constant full-power operation or enable the dynamic display mode, which varies the water flow in a pre-set pattern for a more animated water feature. For full control, connect the pump to the Oase Control (OC) system using the Oase Control Cable (sold separately). With the InScenio FM-Master OC, you can manage your fountain and lighting through the Oase app on your phone or tablet and you have access to 10 more preset dynamic displays. What’s Included Oase PondJet Eco Premium (includes float and integrated nozzle) 20m mains power cable 3-year warranty, extendable to 5 years with Oase registration Optional: Enhance your display with the PondJet Light Set (sold separately), featuring 3 x LunAqua Power LED lights, mounting brackets, transformer, and 20m power/OC cable.]]></g:description>
+      <g:description><![CDATA[Bring your pond or lake to life with the Oase PondJet Eco Premium, a high-performance floating fountain pump that creates a stunning water display up to 3.75 metres high. Ideal for large ponds and water features, this self-contained unit combines effortless installation with impressive performance and energy efficiency. Spectacular Floating Fountain Display The PondJet Eco Premium features a powerful pump suspended beneath a float, pushing water through 12 built-in nozzles to form an elegant arching fountain up to 3.75m high and 3m wide. The floating design means there's no need to build a platform—just 0.5m of water depth is required beneath the unit. Easy to Install & Maintain No platform needed – pump stays above debris and sediment Simple tethering – secure in place or easily move it to shore for maintenance Works in shallow water – only 0.5m depth required below pump Upgraded Power & Efficiency In 2025, Oase upgraded this model with the Aquarius Eco Premium 13500 pump, featuring innovative CORE 6 Technology for: 25% lower energy consumption than previous models Quieter, smoother operation with six curved motor windings A taller fountain display – now up to 3.75m high You can also swap out the nozzle to customise your display using compatible options like the Foam Jet (35-10) or Vulcan (37-2.5) . The Foam Jet creates a single column full of a mix of air and water which is 1.8m high and 32 mm in diameter. If you choose the Vulcan (37-2.5), then it creates what is often thought of as a more traditional fountain with a central jet and two lower tiers, which is 3.7m tall and 2.2m in diameter. An illuminated fountain has a particularly beautiful effect in the evening and in hours of darkness. We offer sets which include the PondJet pump and either white or RGB lighting kits to illuminate your fountain in the evening. Dynamic Display & Smart App Control Choose between constant full-power operation or enabling the dynamic display mode, which varies the water flow in a preset pattern for a more animated water feature. For full control, connect the pump to the Oase Control (OC) system using the Oase Control Cable (sold separately). With the InScenio FM-Master OC, you can manage your fountain and lighting through the Oase app on your phone or tablet, and you have access to 10 more preset dynamic displays. What’s Included Oase PondJet Eco Premium (includes float and integrated nozzle) 20m mains power cable 3-year warranty, extendable to 5 years with Oase registration Optional: Enhance your display with the PondJet Light Set (sold separately), featuring 3 x LunAqua Power LED lights, mounting brackets, a transformer, and a 20 m power/OC cable.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-pond-jet-eco-premium-floating-fountain</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Pond-Jet-ECO-Premium-Floating-Fountain-Pic1.jpg?v=1742994444</g:image_link>
       <g:availability>in stock</g:availability>
@@ -54345,6 +54326,24 @@
       <g:condition>new</g:condition>
       <g:product_type><![CDATA[Test/Treatments]]></g:product_type>
       <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Cleaning Supplies</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>GLL597</g:id>
+      <g:title><![CDATA[1.7m x 6m (5ft 7 Inch x 19ft 8 Inch) Greenseal EPDM Stream Liner]]></g:title>
+      <g:description><![CDATA[This 1.7m x 6m (5ft 7 Inch x 19ft 8 Inch approx.) Greenseal EPDM pond liner from Gordon Low is a modern 0.75mm thick EPDM pond liner which offers a perfect balance between performance and value and is our most popular rubber liner. With the look, feel and arguably better performance of traditional butyl but at a significantly lower price, Greenseal pond liner is particularly suitable for garden fish ponds and water features. With great flexibility and resistance to temperature change and UV damage, this material comes with a lifetime guarantee against material breakdown. This 1.7m x 6m liner is a total of 6 square metres and could be used to create a stream of up to 1.1m wide x 5.4m long x 0.2m deep (assuming a 0.1m wide edge overlap)]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/1-7m-x-6m-5ft-7-inch-x-19ft-8-inch-greenseal-epdm-stream-liner</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-GreenSeal-Eco-EPDM-Pond-Liner-Pic1_1580ddb3-c439-47f6-89f2-164516d1f271.jpg?v=1734615068</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>96.80 GBP</g:price>
+      <g:brand><![CDATA[Gordon Low]]></g:brand>
+      <g:mpn>GLL597</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Liner / Ponds]]></g:product_type>
+      <g:google_product_category>Lawn &amp; Garden &gt; Outdoor Décor &gt; Water Fountains &amp; Ponds</g:google_product_category>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard Delivery</g:service>
@@ -56093,25 +56092,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>OAM017</g:id>
-      <g:title><![CDATA[Oase 250 LM - Surface Skimmer]]></g:title>
-      <g:description><![CDATA[The Oase 250 LM Surface Skimmer which is part of the Lake Management range is a high performance floating skimmer with an integrated pump, which will clean pond and lake surfaces of up to 250 square metres. As a highly effective way of removing surface debris, the Skimmer 250 LM will not only keep the surface clear but will also reduce the amount of debris which would otherwise sink to the bottom of a pond, causing water pollution and feeding algae growth. Unlike fixed skimmers the Oase 250 LM Surface Skimmer is free floating, allowing it to constantly sit at the correct height to ensure maximum debris collection through its 520mm wide skimmer opening. The integrated pump (AquaMax) creates a flowrate of up to 15000 litres per hour, drawing water and debris into the 27 Litre capacity, high quality stainless steel collection basket with a 9mm square mesh. Oase Skimmer 250 LM Technical Details Dimensions 775 x 440 x 590mm. Power consumption 250 watts. Mouth opening 520mm wide. Oase 250 LM Surface Skimmer Features Free Floating, Fully independent Skimmer Maximum flow rate of 15,000 litres an hour / 250 litres a minute. Large Collection slot Easy cleaning with the removal of the 27 litre stainless steel waste basket. 10m mains cable. Guaranteed for 2 years. Suitable for ponds / lakes with surface area up to 250 square metres Oase 250 LM Surface Skimmer Anchor Kit Includes 2 x Stainless Steel Wire Ropes - 3mm x 20m 4 x Stainless Steel Carabineers - 60mm x 6mm 4 x Stainless Steel Screw Clamps - 3mm 2 x Wire Guides - 3mm]]></g:description>
-      <g:link>https://watergardeningdirect.com/products/oase-250-lm-surface-skimmer</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Skimmer-250-LM-Lake-Skimmer-Pic1_4e5888b1-cb97-41ef-8e2c-7d6d08ddfa2c.jpg?v=1734618236</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2184.99 GBP</g:price>
-      <g:brand><![CDATA[Oase]]></g:brand>
-      <g:mpn>OAM017</g:mpn>
-      <g:gtin>4010052574806</g:gtin>
-      <g:condition>new</g:condition>
-      <g:product_type><![CDATA[Miscellaneous]]></g:product_type>
-      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard Delivery</g:service>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>TMB001</g:id>
       <g:title><![CDATA[4w T5 Conventional Style TUV Ultra Violet Bulb]]></g:title>
       <g:description><![CDATA[The 4w T5 Conventional Style TUV Ultra Violet Bulbs are double-ended UVC (germicidal) lamps used in Ultra Violet Clarifiers. 4w TUV T5 lamps offer almost constant UV output over their complete lifetime, for high system efficacy. Moreover, they have a long and reliable lifetime, which allows maintenance to be planned for in advance. UV Bulb Specification Description : Generic 4w T5 UV bulb (2 pins at each end ) Length - Overall : 150mm Length - To Cap Ends : 135mm Length - Glass : 112mm Diameter :16mm]]></g:description>
@@ -57771,7 +57751,7 @@
       <g:description><![CDATA[This 6V AC/DC indoor transformer has a 5m cable with a Jack plug style connector which measures 5.5mm diameter and 12mm long. This 6V AC/DC mains adaptor is used instead of the original solar panel and is suitable for use with the following Smart Solar water features. Neptune Cascade solar water feature Aphrodite Cascade water feature Water Mill solar water feature Rock Fall solar water feature Genoa solar water feature Wychwood solar water feature Fairy Rainfall solar water feature]]></g:description>
       <g:link>https://watergardeningdirect.com/products/smart-solar-6v-ac-dc-solar-pump-mains-adaptor</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Smart-Solar-5v-6v-AC-DC-Mains-Adaptor-Pic1_f566df87-e2f1-4d57-b85b-6f2c8d592829.jpg?v=1734618738</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
       <g:brand><![CDATA[Smart Solar]]></g:brand>
       <g:mpn>SMA001</g:mpn>
@@ -58288,6 +58268,44 @@
       <g:gtin>4010052401294</g:gtin>
       <g:condition>new</g:condition>
       <g:product_type><![CDATA[Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>OAP030</g:id>
+      <g:title><![CDATA[Oase Skimmer 250 Eco - Lake Skimmer]]></g:title>
+      <g:description><![CDATA[The Oase Skimmer 250 Eco - Lake Skimmer, which is part of the Lake Management range, is a high performance floating skimmer with an integrated pump, which will clean pond and lake surfaces of up to 250 square metres. Oase has redesigned the motor for the Skimmer 250 Eco, resulting in quieter, more energy efficient pumps, saving 40% of the running costs, which should also help them last longer than their older models. The new motors have what Oase calls "Core 6 Technology", which means they have six windings instead of the traditional 4. These windings have also been curved, which produces smoother running, adding to their efficiency and also making them quieter. As a highly effective way of removing surface debris, the Skimmer 250 Eco will not only keep the surface clear but will also reduce the amount of debris which would otherwise sink to the bottom of a pond, causing water pollution and feeding algae growth. Unlike fixed skimmers, the Oase Skimmer 250 Eco is free floating, allowing it to constantly sit at the correct height to ensure maximum debris collection through its 520mm wide skimmer opening. The integrated pump (AquaMax) creates a flowrate of up to 17000 litres per hour, drawing water and debris into the 27 Litre capacity, high quality stainless steel collection basket with a 9mm square mesh. Oase Skimmer 250 Eco - Lake Skimmer Eco Technical Details Dimensions: 775 x 440 x 590mm. Power consumption: 140 watts (was 250 watts). Mouth opening 520mm wide. Oase Skimmer 250 Eco - Lake Skimmer Features Free Floating, Fully independent Lake Skimmer Maximum flow rate of 17,000 litres an hour / 283 litres a minute. Large Collection slot Easy cleaning with the removal of the 27 litre stainless steel wastebasket. 10m mains cable. Guaranteed for 2 years. Suitable for ponds / lakes with surface area up to 250 square metres Oase Skimmer 250 Eco - Lake Skimmer Anchor Kit Includes 2 x Stainless Steel Wire Ropes - 3mm x 20m 4 x Stainless Steel Carabiners - 60mm x 6mm 4 x Stainless Steel Screw Clamps - 3mm 2 x Wire Guides - 3mm]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/oase-skimmer-250-eco-lake-skimmer</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Skimmer-250-LM-Lake-Skimmer-Pic1_4e5888b1-cb97-41ef-8e2c-7d6d08ddfa2c.jpg?v=1734618236</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2499.99 GBP</g:price>
+      <g:brand><![CDATA[Oase]]></g:brand>
+      <g:mpn>OAP030</g:mpn>
+      <g:gtin>4010052954387</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Miscellaneous]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>OAP030</g:id>
+      <g:title><![CDATA[Oase Skimmer 250 Eco - Surface Skimmer]]></g:title>
+      <g:description><![CDATA[The Oase Skimmer 250 Eco - Surface Skimmer, which is part of the Lake Management range, is a high performance floating skimmer with an integrated pump, which will clean pond and lake surfaces of up to 250 square metres. Oase has redesigned the motor for the Skimmer 250 Eco, resulting in quieter, more energy efficient pumps, saving 40% of the running costs, which should also help them last longer than their older models. The new motors have what Oase calls "Core 6 Technology", which means they have six windings instead of the traditional 4. These windings have also been curved, which produces smoother running, adding to their efficiency and also making them quieter. As a highly effective way of removing surface debris, the Skimmer 250 Eco will not only keep the surface clear but will also reduce the amount of debris which would otherwise sink to the bottom of a pond, causing water pollution and feeding algae growth. Unlike fixed skimmers, the Oase Skimmer 250 Eco is free floating, allowing it to constantly sit at the correct height to ensure maximum debris collection through its 520mm wide skimmer opening. The integrated pump (AquaMax) creates a flowrate of up to 17000 litres per hour, drawing water and debris into the 27 Litre capacity, high quality stainless steel collection basket with a 9mm square mesh. Oase Skimmer 250 Eco - Surface Skimmer Eco Technical Details Dimensions: 775 x 440 x 590mm. Power consumption: 140 watts (was 250 watts). Mouth opening 520mm wide. Oase Skimmer 250 Eco - Surface Skimmer Features Free Floating, Fully independent Surface Skimmer Maximum flow rate of 17,000 litres an hour / 283 litres a minute. Large Collection slot Easy cleaning with the removal of the 27 litre stainless steel wastebasket. 10m mains cable. Guaranteed for 2 years. Suitable for ponds / lakes with surface area up to 250 square metres Oase Skimmer 250 Eco - Surface Skimmer Anchor Kit Includes 2 x Stainless Steel Wire Ropes - 3mm x 20m 4 x Stainless Steel Carabiners - 60mm x 6mm 4 x Stainless Steel Screw Clamps - 3mm 2 x Wire Guides - 3mm]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/oase-skimmer-250-eco-surface-skimmer</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Skimmer-250-LM-Lake-Skimmer-Pic1_4e5888b1-cb97-41ef-8e2c-7d6d08ddfa2c.jpg?v=1734618236</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2499.99 GBP</g:price>
+      <g:brand><![CDATA[Oase]]></g:brand>
+      <g:mpn>OAP030</g:mpn>
+      <g:gtin>4010052954387</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Miscellaneous]]></g:product_type>
       <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
       <g:shipping>
         <g:country>GB</g:country>
