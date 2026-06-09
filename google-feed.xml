@@ -5,7 +5,7 @@
     <link>https://watergardeningdirect.com</link>
     <description>Water Gardening Direct product feed for Google Merchant Centre</description>
     <language>en-gb</language>
-    <!-- Generated: 2026-06-08T01:00:34.990Z | Products: 3102 | Items: 3099 | Skipped (no SKU): 3 -->
+    <!-- Generated: 2026-06-09T01:00:37.344Z | Products: 3118 | Items: 3116 | Skipped (no SKU): 2 -->
     <item>
       <g:id>OAW121</g:id>
       <g:title><![CDATA[Oase Watercourse Spring / Spillway Box 15000]]></g:title>
@@ -810,7 +810,7 @@
       <g:description><![CDATA[This 5m x 5m (16ft 4 inch x 16ft 4 inch) PVC pond liner from Gordon Low is a tradition 0.5mm thick plastic pond liner which offers a budget alternative to rubber liners. Using only virgin PVC these liner have a very good resistance to UV damage come with a 30 year guarantee against material breakdown. Unfortunately as PVC liners are thinner and have very little flexibility they do not offer the same resistance to punctures as rubber liners, but when the budget is tight and you need an alternative to rubber these high quality PVC liners from Gordon Low can be a great option for both ponds and water features. This 5m x 5m liner is a total of 25 square metres and could be used to create a rectangular nature or fish pond of up to 3.2m long x 3.2m wide x 0.6m deep or a circular nature or fish pond of up to 3.2m diameter x 0.6m deep (assuming a 0.3m wide top overlap).]]></g:description>
       <g:link>https://watergardeningdirect.com/products/5m-x-5m-16ft-4-inch-x-16ft-4-inch-0-50mm-30-year-pvc-pond-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-PVC-Pond-Liner-Pic1_60e629f7-6521-4661-ae1e-f44fb62a85f4.jpg?v=1734615223</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>110.00 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>GLL615</g:mpn>
@@ -1845,7 +1845,7 @@
       <g:description><![CDATA[This 1m x 6m (3ft 3 Inch x 19ft 8 Inch approx.) Greenseal EPDM pond liner from Gordon Low is a modern 0.75mm thick EPDM pond liner which offers a perfect balance between performance and value and is our most popular rubber liner. With the look, feel and arguably better performance of tradition Butyl but at a significantly lower price Greenseal pond liner is particularly suitable for garden fish ponds and water features . With great flexibility and resistance to temperature change and UV damage this material comes with a lifetime guarantee against material breakdown. This 1m x 6m liner is a total of 6 square metres and could be used and could be used to create a stream of up to 0.4m wide x 5.4m long x 0.2m deep (assuming a 0.1m wide edge overlap)]]></g:description>
       <g:link>https://watergardeningdirect.com/products/1m-x-6m-3ft-3-inch-x-19ft-8-inch-greenseal-epdm-stream-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-GreenSeal-Eco-EPDM-Pond-Liner-Pic1_1580ddb3-c439-47f6-89f2-164516d1f271.jpg?v=1734615068</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>55.74 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>GLL593</g:mpn>
@@ -3616,25 +3616,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>OAW037</g:id>
-      <g:title><![CDATA[Rockways - Becka Falls Drop Cascade]]></g:title>
-      <g:description><![CDATA[The Rockways - Becka Falls Drop Cascade Watercourses are preformed elements which are specifically designed to be used as individual items or interconnect to form pleasing streams. Being hand made from tough polyurethane they produce watercourses of superb realism and strength. The Becka Falls Drop Cascades feature 2 levels with a waterfall drop and have a natural looking pebble waterfall appearance (off white / light grey) with an algae green tint to match the design of the Becka Falls Step Cascades. This cascade has a gentle clockwise curve which turns the bottom lip slightly to the left (when looking from the front) These features are fully weatherproof and UV stabilised to ensure that they will not fade. Due to the high quality manufacturing process these watercourses also weigh significantly less than real stone making them easy to install. The Rockways - Becka Falls Drop Cascade has a "knock out" connection underneath to allow the connection of the included stepped hose adaptor which would allow the use of 25mm, 32mm or 38mm (1", 1¼", 1½") pipework. The maximum flowrate for each unit is 1500 litres per hour (330 gallons per hour). The Rockways - Becka Falls Drop Cascade Watercourse Dimensions: Length 690mm x Width 610mm x Height 200mm The Rockways - Becka Falls Drop Cascade Watercourse Maximum Flowrate: 1500 litre per hour (330 gallons per hour).]]></g:description>
-      <g:link>https://watergardeningdirect.com/products/rockways-becka-falls-drop-cascade</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Rockways-Becka-Falls-Drop-Cascade-Pic1.jpg?v=1734611097</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>109.99 GBP</g:price>
-      <g:brand><![CDATA[Rockways]]></g:brand>
-      <g:mpn>OAW037</g:mpn>
-      <g:gtin>4010052766355</g:gtin>
-      <g:condition>new</g:condition>
-      <g:product_type><![CDATA[Water Features]]></g:product_type>
-      <g:google_product_category>Lawn &amp; Garden &gt; Outdoor Décor &gt; Water Fountains &amp; Ponds</g:google_product_category>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard Delivery</g:service>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>INT082</g:id>
       <g:title><![CDATA[Blagdon - Anti Fungus and Bacteria - 1L]]></g:title>
       <g:description><![CDATA[Blagdon - Anti Fungus and Bacteria - 1L treats Fungus (Saprolignia sp. and Achlya sp) and also Finrot and Mouthrot causing bacteria, (Columnaris sp. and Flexibacter sp.) . Blagdon - Anti Fungus and Bacteria - 1L is fast and effective whilst being harmless to filters and all species of fish, plants and water using wildlife. Typical Symptoms: Mouth & fins appear to be rotting away White cotton wool like growths on fish. Use a 5 day course of treatment to minimise fish stress and maximise effective treatment. Blagdon - Anti Fungus and Bacteria - 1L - Treats 9090 L (2000 G) for 5 days. Blagdon - Anti Fungus & Bacteria Active Ingredients per 100ml : Acriflavine Hydrochloride - 437mg Malachite Green Oxalate - 213mg]]></g:description>
@@ -3941,7 +3922,7 @@
       <g:link>https://watergardeningdirect.com/products/oase-pe-500-preformed-pond</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-PE-500-Preformed-Pond-Pic1_6b5781e5-87a5-4b8b-a170-4c65602927a3.jpg?v=1734618061</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>189.98 GBP</g:price>
+      <g:price>189.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAL001</g:mpn>
       <g:gtin>4010052367682</g:gtin>
@@ -4337,7 +4318,7 @@
       <g:description><![CDATA[The OASE BioSmart 16000 filters are an introductory combined filter unit from Oase that include and integrated 11w Ultra Violet Light. The OASE BioSmart Filters ensure clear and healthy pond water thanks to the combination of a large filter foam surface and integrated UVC technology. The BioSmart's 16000 built in Ultra Violet, utilises a highly efficient PLS Ultra Violet bulb. The filter consists of foam cartridges suspended from a plate. To clean them simply pull the handles which compress the foam against the plate, squeezing out the waste. This waste and the remaining water is then run to waste via the integrated sludge outlet. The filter outlet is half way up the tank allowing partial burial if required, although the sludge drain is at the bottom of the tank and must be accessible for cleaning. The filters are supplied with a thermometer and 3m of cable for the integrated UVC. The 16000 BioSmart filters come with a 2 year guarantee to offer fantastic value. The outlet for this filter takes 75mm rigid of flexible hose pipe (not included) which can be purchased from the following pages: 76mm Outflow Rigid Pipe https://www.watergardeningdirect.com/acatalog/75mm-Oase-Rigid-Pipework.html 76mm Flexible Hosepipe https://www.watergardeningdirect.com/acatalog/Corrugated-Flexible-Hose-Pipe-76mm-3-Inch-ID-Per-Metre.html BioSmart 16000 Filter Set Features • Combined Filter for Goldfish and Koi ponds • Filter includes integrated 11w UVC • In Filter cleaning with de-sludge • Mid outlet height for easy concealment • Oase "Clear Water Guarantee" • 2 year guarantee]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-biosmart-16000-uvc-filter-11w</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-BioSmart-16000-UVC-Pond-Filter-Pic1_768f2885-596f-4608-93ad-d66e5d5bb051.jpg?v=1734616871</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>189.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAC201</g:mpn>
@@ -4351,16 +4332,16 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>EAF010</g:id>
-      <g:title><![CDATA[Evolution Aqua EazyPod Complete Pond Filters - Grey]]></g:title>
-      <g:description><![CDATA[The Grey Nexus EazyPod Complete is a low priced smaller version of the Pump Fed Nexus Eazy, the world's number-one professional Koi filtration system. The Grey Eazy Pod Complete provides a mechanical and biological filter system for garden ponds up to 20,000 litres or Koi ponds up to 10,000 litres. Features include: Designed and created due to unprecedented demand, Very easy to install and operate, Utilising proven Eazy 200 and K1 Micro media, Gives incredibly 'GIN clear' water with an integrated 18w Ultra Violet Clarifier, Quick and easy cleaning cycle with no wet or dirty hands - JUST TURN AIR VALVE, Complete with adjustable rubber connectors, Small filter - only 23 inches tall AND WIDE (585mm), Ideal as a complete filter on a quarantine system, Ideal as a pre-filter, polisher or on a skimmer line, a great all rounder! • Intergraded 18w Ultra Violet Clarifier Evolution Aqua EazyPod Complete Pond Filters - Grey Features • Designed and created due to unprecedented demand • Very easy to install and operate • Utilising proven Eazy 200 and K1 Micro media • Gives incredibly 'GIN clear' water • Quick and easy cleaning cycle with no wet or dirty hands - JUST TURN AIR VALVE • Complete with adjustable rubber connectors - • Inlet connection 25mm (1"), 32mm (1¼") or 38mm (1½") • Outlet connection 110mm (4") • Waste connection 32mm (1¼") or 38mm (1½") • Small filter - only 23 inches tall AND WIDE (585mm) • For Pump Fed systems • Ideal as a complete filter on a quarantine system • Ideal as a pre-filter, polisher or on a skimmer line, a great all rounder! • Modern Grey colour]]></g:description>
-      <g:link>https://watergardeningdirect.com/products/evolution-aqua-eazypod-complete-pond-filters-grey</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Evolution-Aqua-EazyPod-Complete-Pond-Filter-Grey-Pic1-v2.jpg?v=1762961123</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>699.95 GBP</g:price>
+      <g:id>EAF011</g:id>
+      <g:title><![CDATA[Evolution Aqua EazyPod UV Automatic - Grey Pond Filter]]></g:title>
+      <g:description><![CDATA[The Grey Evolution Aqua Nexus EazyPod Complete Automatic is a self-cleaning, mechanical and biological filter system for garden ponds up to 10,000 litres. The integrated control box contains an adjustable timer which initiates a cleaning cycle automatically. Inside the control box of the Grey EazyPod, the electronic connector blocks control the automated waste valve, along with your choice of circulating pump (not supplied), in addition to the integral air pump which kicks in automatically to clean the K1 Micro media. Crystal clear, healthy pond water is achieved by using the highly acclaimed Kaldness K1 Micro filter media, which also provides enhanced biological benefits by way of its protected surface area. The Grey EazyPod UV Automatic features an integrated 18 Watt UVC built in to the inlet section of the filter, helping to clear green water. Evolution Aqua EazyPod Complete Automatic Grey Pond Filter Features • Very easy to install and operate • Utilising proven K1 Micro media • Gives incredibly 'GIN clear' water • Quick and easy cleaning cycle with no wet or dirty hands - Now fully Automatic • Complete with adjustable rubber connectors - • Inlet connection up to 3 inch - 76mm • Outlet connection 4 inch - 110mm • Small filter - only 23 inches tall AND wide (585mm) • Easy pump fed installation • Ideal as a complete filter on a quarantine system • Ideal as a pre-filter, polisher or on a skimmer line, a great all rounder! • Modern original Grey colour]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/evolution-aqua-eazypod-uv-automatic-grey-pond-filter</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Evolution-Aqua-EazyPod-Automatic-Pond-Filter-Grey-Pic1_a29fb0dc-753d-4b0f-b531-2c7cb508dc5b.jpg?v=1737460828</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>849.95 GBP</g:price>
       <g:brand><![CDATA[Evolution Aqua]]></g:brand>
-      <g:mpn>EAF010</g:mpn>
-      <g:gtin>5060088874189</g:gtin>
+      <g:mpn>EAF011</g:mpn>
+      <g:gtin>5060088872284</g:gtin>
       <g:condition>new</g:condition>
       <g:product_type><![CDATA[Combined Filter]]></g:product_type>
       <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
@@ -6597,7 +6578,7 @@
       <g:description><![CDATA[Redesigned in 2022 with improved mounting options, the Oase Vitronic 11w Ultraviolet Clarifier offers the quality normally associated with Oase but at a much more competitive price. They effectively eliminate algae and pathogens through Ultra Violet radiation of the water. The long but thin contact chambers combined with high output bulbs make for a very efficient unit even at low flowrates. The Oase Vitronic ultra violets are made to a very high workmanship standard and from impact-resistant plastic. Thanks to the special quick-lock technology the quartz sleeve is particularly easy to clean and the bulb quick to replace. Oase 11w Vitronic Clarifier Features: Quick-Lock removal of the Quartz Sleeve and bulb Easy mounting legs Long contact chamber for high UV exposure UV Indicator 2 year guarantee 3m mains cable]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-vitronic-11w-ultra-violet-clarifier</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Vitronic-11w-Ultra-Violet-Clarifier_97f92abf-afcf-4157-9880-f0b16182007e.jpg?v=1734618574</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>75.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAU020</g:mpn>
@@ -14988,7 +14969,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Premium 9000 are the very latest version of Oases' high performance AquaMax Eco range of solid handling pond filter pumps. In 2024 Oase redesigned the motor for the Aquamax Eco Premiums resulting in a quieter, more energy efficient pumps, saving 14% - 24% of the running costs (depending on the model) which should also help them last longer than their older models (that is saying something). The new motors have what Oase call "Core 6 Technology" which means they have six windings instead of the traditional 4, these windings have also been curved which produces smoother running, adding to their efficiency and also making them quieter. These new Oase AquaMax Eco Premium pumps also feature impellors that have been improved and are now effectively handmade with glass-fibre reinforced plastic making them much stronger and allowing them to take solids of up to 11mm in size. All of the new AquaMax Eco Premium pumps can now be controlled electronically via the Oase Smart Phone App using the DMX technology which is available in their OC ("Oase Control" system, formerly known as EGC) range of products. Individual pumps can be controlled using an Oase Eco Controller (OAE016) or if the pump is part of an installation using other OC products which can be remotely controlled then a Oase Control Cable Adapter can be purchased to link other units. All of the AquaMax Eco Premium pumps have the option of using the secondary inlet port to run an optional remote strainer (OAA501) or skimmer (OAA102), both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Like their predecessors these pumps still have the seasonal function control (SFC) function which automatically slows the pump down (saving money) in colder water temperatures and they can still be dry installed (SFC does not work in dry installations) and reliable protection against blockages and dry running with EFC (Environmental Function Control) All AquaMax Eco Premium 9000 pumps are supplied with 10m of mains cable, inlet and outlet hosetails which will accept 25mm - 38mm flexible hosepipe and a 25, 32 and 38mm plastic hose clip. In addition 9000 - 21000 models Oase also provide a larger outlet hosetail to allow the connection of 50mm (2") flexible pipework for less resistance in high flowrate / longer pipe runs. The Oase AquaMax Eco Premium 9000 pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. Oase Aquamax Eco Premium 9000 Features • Flowrates of up to 9000 litres per hour. • Improved efficiency • Brilliant power balance: Reliable flowrate's at lower power consumption • Secondary inlet connection for optional strainer or skimmer for dirt feeding of further pond zones • Unique, patented frost protection: to -20°C • Delivery rate is controllable mechanically and electronically (Using the Oase App) • Quiet at the dry installation • Will pump particles of up to 11mm • "Environmental Function Control" (EFC by OASE) protects against dry-run or blocking These pumps are part of the OASE Control (previously called "Easy Garden Control (EGC)") range which allows remote monitoring and control via free access to the OASE Cloud. This allows you to communicate with your pond whilst away from home. See the "More Info" tab below for other OC (EGC) compatible products.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-premium-9000-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-AquaMax-Eco-Premium-5000-7000-9000-13000-17000-21000-Filter-and-Waterfall-Pump-Pic1_486e456e-6dc3-474f-ad8d-93bf84ae7ee2.jpg?v=1738759599</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>499.69 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP223</g:mpn>
@@ -15007,7 +14988,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Premium 13000 are the very latest version of Oases' high performance AquaMax Eco range of solid handling pond filter pumps. In 2024 Oase redesigned the motor for the Aquamax Eco Premiums resulting in a quieter, more energy efficient pumps, saving 14% - 24% of the running costs (depending on the model) which should also help them last longer than their older models (that is saying something). The new motors have what Oase call "Core 6 Technology" which means they have six windings instead of the traditional 4, these windings have also been curved which produces smoother running, adding to their efficiency and also making them quieter. These new Oase AquaMax Eco Premium pumps also feature impellors that have been improved and are now effectively handmade with glass-fibre reinforced plastic making them much stronger and allowing them to take solids of up to 11mm in size. All of the new AquaMax Eco Premium pumps can now be controlled electronically via the Oase Smart Phone App using the DMX technology which is available in their OC ("Oase Control" system, formerly known as EGC) range of products. Individual pumps can be controlled using an Oase Eco Controller (OAE016) or if the pump is part of an installation using other OC products which can be remotely controlled then a Oase Control Cable Adapter can be purchased to link other units. All of the AquaMax Eco Premium pumps have the option of using the secondary inlet port to run an optional remote strainer (OAA501) or skimmer (OAA102), both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Like their predecessors these pumps still have the seasonal function control (SFC) function which automatically slows the pump down (saving money) in colder water temperatures and they can still be dry installed (SFC does not work in dry installations) and reliable protection against blockages and dry running with EFC (Environmental Function Control) All AquaMax Eco Premium 13000 pumps are supplied with 10m of mains cable, inlet and outlet hosetails which will accept 25mm - 38mm flexible hosepipe and a 25, 32 and 38mm plastic hose clip. In addition 9000 - 21000 models Oase also provide a larger outlet hosetail to allow the connection of 50mm (2") flexible pipework for less resistance in high flowrate / longer pipe runs. The Oase AquaMax Eco Premium 13000 pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. Oase Aquamax Eco Premium 13000 Features • Flowrates of up to 13000 litres per hour. • Improved efficiency • Brilliant power balance: Reliable flowrate's at lower power consumption • Secondary inlet connection for optional strainer or skimmer for dirt feeding of further pond zones • Unique, patented frost protection: to -20°C • Delivery rate is controllable mechanically and electronically (Using the Oase App) • Quiet at the dry installation • Will pump particles of up to 11mm • "Environmental Function Control" (EFC by OASE) protects against dry-run or blocking These pumps are part of the OASE Control (previously called "Easy Garden Control (EGC)") range which allows remote monitoring and control via free access to the OASE Cloud. This allows you to communicate with your pond whilst away from home. See the "More Info" tab below for other OC (EGC) compatible products.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-premium-13000-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-AquaMax-Eco-Premium-5000-7000-9000-13000-17000-21000-Filter-and-Waterfall-Pump-Pic1.jpg?v=1767706732</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>569.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP224</g:mpn>
@@ -15045,7 +15026,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Premium 21000 are the very latest version of Oases' high performance AquaMax Eco range of solid handling pond filter pumps. In 2024 Oase redesigned the motor for the Aquamax Eco Premiums resulting in a quieter, more energy efficient pumps, saving 14% - 24% of the running costs (depending on the model) which should also help them last longer than their older models (that is saying something). The new motors have what Oase call "Core 6 Technology" which means they have six windings instead of the traditional 4, these windings have also been curved which produces smoother running, adding to their efficiency and also making them quieter. These new Oase AquaMax Eco Premium pumps also feature impellors that have been improved and are now effectively handmade with glass-fibre reinforced plastic making them much stronger and allowing them to take solids of up to 11mm in size. All of the new AquaMax Eco Premium pumps can now be controlled electronically via the Oase Smart Phone App using the DMX technology which is available in their OC ("Oase Control" system, formerly known as EGC) range of products. Individual pumps can be controlled using an Oase Eco Controller (OAE016) or if the pump is part of an installation using other OC products which can be remotely controlled then a Oase Control Cable Adapter can be purchased to link other units. All of the AquaMax Eco Premium pumps have the option of using the secondary inlet port to run an optional remote strainer (OAA501) or skimmer (OAA102), both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Like their predecessors these pumps still have the seasonal function control (SFC) function which automatically slows the pump down (saving money) in colder water temperatures and they can still be dry installed (SFC does not work in dry installations) and reliable protection against blockages and dry running with EFC (Environmental Function Control) All AquaMax Eco Premium 21000 pumps are supplied with 10m of mains cable, inlet and outlet hosetails which will accept 25mm - 38mm flexible hosepipe and a 25, 32 and 38mm plastic hose clip. In addition 9000 - 21000 models Oase also provide a larger outlet hosetail to allow the connection of 50mm (2") flexible pipework for less resistance in high flowrate / longer pipe runs. The Oase AquaMax Eco Premium 21000 pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. Oase Aquamax Eco Premium 21000 Features • Flowrates of up to 21000 litres per hour. • Improved efficiency • Brilliant power balance: Reliable flowrate's at lower power consumption • Secondary inlet connection for optional strainer or skimmer for dirt feeding of further pond zones • Unique, patented frost protection: to -20°C • Delivery rate is controllable mechanically and electronically (Using the Oase App) • Quiet at the dry installation • Will pump particles of up to 11mm • "Environmental Function Control" (EFC by OASE) protects against dry-run or blocking These pumps are part of the OASE Control (previously called "Easy Garden Control (EGC)") range which allows remote monitoring and control via free access to the OASE Cloud. This allows you to communicate with your pond whilst away from home. See the "More Info" tab below for other OC (EGC) compatible products.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-premium-21000-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-AquaMax-Eco-Premium-5000-7000-9000-13000-17000-21000-Filter-and-Waterfall-Pump-Pic1.jpg?v=1767706732</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>729.59 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP226</g:mpn>
@@ -15273,7 +15254,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Premium 6000 12v is the latest version of the Oase high performance AquaMax Eco range of solid handling pond filter pumps. The Oase AquaMax Eco Premium is a fully redesigned evolution of the top selling AquaMax Eco and extends its high reliability and low running costs. Now the "Premium" version of this pump raises the bar even higher. The Oase AquaMax Eco Premium is even more energy efficient than the AquaMax Eco and features even lower power consumption, resulting in a major reduction of the running costs. In addition, with all Oase AquaMax Eco Premium pumps, you have the option of using the secondary inlet connection to run an optional remote strainer (OAA501) or skimmer (OAA102), both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Supplied with 2.5m of mains cable running to the weatherproof transformer, then 8m of cable carrying the 12v power to the pump, hosetails, and a 25, 32 and 38mm stainless steel hose clip. As an optional extra, the 12v cable can be extended by a further 10m to give a total of 18m by using the Oase 12v - 10m extension cable . These pumps also feature Environmental Function Control (EFC by OASE), which protects against dry running and blocking In addition to the standard hosetail for 25, 32 and 38mm flexible pipework. All Oase AquaMax Eco Premium 6000 12v pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. Oase AquaMax Eco Premium 6000 - 12v Features • Brilliant power balance: Reliable flowrates at lower power consumption • Secondary inlet connection for optional strainer or skimmer • Unique, patented frost protection: to -20°C • 2.5m mains cable & 8m 12v cable (extension available) • Will pump particles of up to 10mm (6000) or 11mm (12000) in size • "Environmental Function Control" (EFC by OASE) protects against dry-run or blocking • Safe 12v technology perfect for implementation in swim ponds and bathing ponds]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-premium-6000-12v-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/C_Oase-Aquamax-Eco-Preium-12v-Pond-Filter-Pump.jpg?v=1741950672</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>564.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP092</g:mpn>
@@ -15330,7 +15311,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Twin is the very latest version of Oases' high performance AquaMax Eco range of solid handling pond filter pumps. The Oase AquaMax Eco Twin is a fully redesigned evolution of the top selling Oase Promax and extends it's high reliability and performance. Now the "Twin" version of this pump raises the bar even higher. The Oase AquaMax Eco Twin is even more energy efficient than the Oase Promax and features even lower power consumption's, making a major reduction to the running costs. In addition, with the Oase AquaMax Eco Twin pumps, you have the option of using the secondary inlet connection to run an optional remote strainer (OAA501) or skimmer (OAA102), both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Unlike most other pumps, the Oase AquaMax Eco Twin 30000 pond pumps feature a twin motor design and have full remote control functionality. The external control box includes a LCD display to indicate the current power level of each of the two motors. These motors can be independently switch on / off or have their flow rates increased or decreased using the wireless remote control., The Oase AquaMax Eco Twin 30000 feature Oases' unique "EFC Function" (Environmental Function Control), which automatically switches the pump off to prevent damage, when it senses dry running. At the other extreme, the Oase AquaMax Eco Twin 30000 pond pumps feature a frost protection system to prevent damage to the pumps in water at as low as -20°C. The Oase AquaMax Eco Twin 30000 pond pumps are supplied with a 50mm (2") outlet hosetail to ensure maximum flow rates. In addition a secondary inlet connection hosetail is supplied for 25, 32 and 38mm flexible pipe work. The Oase AquaMax Eco Twin 30000 pond pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. • Brilliant power balance: Reliable flow rates at lower power consumption • Secondary inlet connection for optional strainer or skimmer for dirt feeding of further pond zones • Twin motor design • Flow rates is controllable mechanically and electronically • Supplied with 10m of mains cable. • Will pump particles of up to 11mm in size • Environmental Function Control (EFC) protects against dry-run or blocking • Unique, patented frost protection: to -20°C]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-twin-30000-remote-control-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Aquamax-Eco-Twin-30000-Remote-Control-Filter-and-Waterfall-Pump-Pic1_58f3a1fa-d96c-4f2e-be0d-299139417efa.jpg?v=1734616294</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1149.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP091</g:mpn>
@@ -15406,7 +15387,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Expert 27000 - 12v is a low voltage version of the highly respected AquaMax Eco Expert pumps. They are an energy-efficient pump range designed for extremely powerful but economic performance, they are perfect for use in demanding filter systems or for large watercourses and waterfalls and as they are 12 V they are perfect for swimming ponds and natural pools, even if they contain sea water! They have robust stainless steel strainer which allows particles as large as 11mm to pass through and be pumped. The design includes unique, patented frost protection meaning the pump will not be damaged at temperatures as low as -20°C. The Oase AquaMax Eco Expert 27000 - 12v pumps include Oases' Environmental Function Control (EFC) protection which means the pump is switched off if the Impeller chamber is not full of water. This guards against dry running and blocking problems. Suitable for submerged or dry running installations (but is not self priming). These pumps are unusually quiet in operation meaning they are ideal for use in pump chambers. Oases' Patented Seasonal Flow Control (SFC) included in the design which if switched on will reduce the flow as the temperature drops. This can lead to 30% energy savings. The Oase AquaMax Eco Expert - 12v pumps have 2m of power cable to the weatherproof transformer and 8m of 12v cable between the transformer and the pump. A 10m extension cable is available to extend the low voltage run (OAE072) . Supplied with a 3 year warranty, which can be upgraded to 5 years by sending the guarantee card off to Oase. Oase AquaMax Eco Expert 27000 - 12v Pond Pump Features • Very high flowrate - Up to 27000 LPH • Suitable for large watercourses. waterfalls, swimming ponds and natural pools • Can pass up to 11mm solids • Can be dry mounted or submerged • Large stable base and handle • Side outlet position • Exceptionally quite • Environmental Function Control (EFC) protection • Seasonal Flow Control (SFC) • Up to 5 years warranty • OASE Control (OC) compatible • OASE Eco Pump Control compatible These pumps are part of the OASE Control (previously called "Easy Garden Control (EGC)") range which allows remote monitoring and control via free access to the OASE Cloud. This allows you to communicate with your pond whilst away from home. See the "More Info" tab below for other OC (EGC) compatible products. If you only need local control of this pump, then the Oase Eco Pump Control can be used instead of the full EGC system.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-expert-27000-12v-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Aquamax-Eco-Expert-20000-28000-12v-Filter-Pump-Pic1_11aa4203-4220-4586-a0e5-761ce38d6006.jpg?v=1734616243</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1529.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP097</g:mpn>
@@ -20450,7 +20431,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase FiltoMatic 25000 - 24w UVC Assembly (18231), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-filtomatic-25000-24w-uvc-assembly-18231</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS083-FiltoMatic-25000-24w-UVC-Assembly-18231_819b3719-1d01-4a4a-9d2c-bef131ef85cf.jpg?v=1734617863</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>144.34 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAS083</g:mpn>
@@ -38432,7 +38413,7 @@
       <g:description><![CDATA[The Bog Bean - Menyanthes Trifoliata is a hardy plant that is perfect for your garden pond, providing not only attractive leaves and delicate white flowers, but also improving your pond's ecology and providing a habitat for wildlife. Add natural beauty year-round with this fast-spreading aquatic plant. Common Name: Bog Bean Flowering Time: June to August Planting Depth: 10 - 200mm ( ½ inch - 8 inch) Plant Height: 100 - 200mm (4 inch - 8 inch) Light Preference: Full Sun to Part Shade Growth Rate: Fast All our plants are supplied in 9cm square planting pots and are ready to put in your pond, however as they grow they will definitely benefit from replanting into larger baskets with more soil. To see our full range of planting accessories click here]]></g:description>
       <g:link>https://watergardeningdirect.com/products/bog-bean-menyanthes-trifoliata</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Potted-Pond-Plant-WPK234-Bog-Bean-Menyanthes-Trifoliata-Pic1.jpg?v=1734612208</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
       <g:brand><![CDATA[Various]]></g:brand>
       <g:mpn>WPK234</g:mpn>
@@ -39034,7 +39015,7 @@
       <g:description><![CDATA[The Oase AquaMax Eco Premium 5000 are the very latest version of Oases' high performance AquaMax Eco range of solid handling pond filter pumps. In 2024 Oase redesigned the motor for the Aquamax Eco Premiums resulting in a quieter, more energy efficient pumps, saving 14% - 24% of the running costs (depending on the model) which should also help them last longer than their older models (that is saying something). The new motors have what Oase call "Core 6 Technology" which means they have six windings instead of the traditional 4, these windings have also been curved which produces smoother running, adding to their efficiency and also making them quieter. These new Oase AquaMax Eco Premium pumps also feature impellors that have been improved and are now effectively handmade with glass-fibre reinforced plastic making them much stronger and allowing them to take solids of up to 11mm in size. All of the new AquaMax Eco Premium pumps can now be controlled electronically via the Oase Smart Phone App using the DMX technology which is available in their OC ("Oase Control" system, formerly known as EGC) range of products. Individual pumps can be controlled using an Oase Eco Controller (OAE016) or if the pump is part of an installation using other OC products which can be remotely controlled then a Oase Control Cable Adapter can be purchased to link other units. All of the AquaMax Eco Premium pumps have the option of using the secondary inlet port to run an optional remote strainer (OAA501) or skimmer (OAA102), both of which can improve the circulation within your pond and reduce the likelihood of 'dead' areas and silt build up. Like their predecessors these pumps still have the seasonal function control (SFC) function which automatically slows the pump down (saving money) in colder water temperatures and they can still be dry installed (SFC does not work in dry installations) and reliable protection against blockages and dry running with EFC (Environmental Function Control) All AquaMax Eco Premium 5000 pumps are supplied with 10m of mains cable, inlet and outlet hosetails which will accept 25mm - 38mm flexible hosepipe and a 25, 32 and 38mm plastic hose clip. The Oase AquaMax Eco Premium 5000 pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. Oase Aquamax Eco Premium 5000 Features • Flowrates of up to 5000 litres per hour. • Improved efficiency • Brilliant power balance: Reliable flowrate's at lower power consumption • Secondary inlet connection for optional strainer or skimmer for dirt feeding of further pond zones • Unique, patented frost protection: to -20°C • Delivery rate is controllable mechanically and electronically (Using the Oase App) • Quiet at the dry installation • Will pump particles of up to 11mm • "Environmental Function Control" (EFC by OASE) protects against dry-run or blocking These pumps are part of the OASE Control (previously called "Easy Garden Control (EGC)") range which allows remote monitoring and control via free access to the OASE Cloud. This allows you to communicate with your pond whilst away from home. See the "More Info" tab below for other OC (EGC) compatible products.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquamax-eco-premium-5000-filter-and-waterfall-pump</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-AquaMax-Eco-Premium-5000-7000-9000-13000-17000-21000-Filter-and-Waterfall-Pump-Pic1.jpg?v=1767706732</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>313.49 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OAP221</g:mpn>
@@ -54061,7 +54042,7 @@
     <item>
       <g:id>OAW184</g:id>
       <g:title><![CDATA[Oase Pondless Pump Vault 60000 Module]]></g:title>
-      <g:description><![CDATA[The Oase Pondless Pump Vault 60000 Modules are designed to be used in conjunction with the Maxima 120 Block modules to create hidden underground reservoirs and allow easy access to your water pump for cleaning and maintenance. Each Oase Pondless Pump Vault 60000 Module has an area which can be drilled to allow the hose to be routed out through the Maxima grids, however cutting a path through the grids could impact the weight they can support. The Oase Pondless Pump Vault 60000 Modules have slots on the two short sides to allow the water to flow in the chamber, these are 210mm up the tank so this needs to be taken in to account when designing the size of the reservoir area. These pump vaults are made from very heavy-duty polyethylene, comes with a lid which can hold a maximum weight 100kg and are supplied with a 2 year guarantee. Oase Pondless Pump Vault 60000 Module Features Made from very heavy-duty polyethylene Strong Lid - will support upto 100 Kg Allows easy access to your water pump Maximum Flowrate - 60000 litres per hour Maximum Hose size - 63mm (2½") Space for a 110mm dia side pipe cut out 2 year guarantee This Pump Vault is often used with the Oase Maxima 120 Pondlesss Grid Modules Oase Pondless Pump Vault 60000 Module Size Length: 685mm x Width: 406mm x Depth: 680mm For shallower areas the Oase Pondlesss Pump Vault 20000 and for deeper areas the Oase Pump Vault Extension Module can be used]]></g:description>
+      <g:description><![CDATA[The Oase Pondless Pump Vault 60000 Modules are designed to be used in conjunction with the Maxima 120 Block modules to create hidden underground reservoirs and allow easy access to your water pump for cleaning and maintenance. Each Oase Pondless Pump Vault 60000 Module has an area which can be drilled to allow the hose to be routed out through the Maxima grids, however cutting a path through the grids could impact the weight they can support. The Oase Pondless Pump Vault 60000 Modules have slots on the two short sides to allow the water to flow in the chamber, these are 210mm up the tank so this needs to be taken in to account when designing the size of the reservoir area. These pump vaults are made from very heavy-duty polyethylene, comes with a lid which can hold a maximum weight 100kg and are supplied with a 2 year guarantee. Oase Pondless Pump Vault 60000 Module Features Made from very heavy-duty polyethylene Strong Lid - will support upto 100 Kg Allows easy access to your water pump Maximum Flowrate - 60000 litres per hour Maximum Hose size - 63mm (2½") Space for a 110mm dia side pipe cut out 2 year guarantee This Pump Vault is often used with the Oase Maxima 120 Pondlesss Grid Modules Oase Pondless Pump Vault 60000 Module Dimensions Overall - Length: 685mm x Width: 406mm x Depth: 680mm Opening below the lid - Length: 370mm x Width: 310mm Internal Dimension of base - Length: 600mm x Width: 390mm For shallower areas the Oase Pondlesss Pump Vault 20000 and for deeper areas the Oase Pump Vault Extension Module can be used]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-pondless-pump-vault-60000-module</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Pondless-Pump-Vault-60000-Module_Pic1-v2.jpg?v=1763292864</g:image_link>
       <g:availability>in stock</g:availability>
@@ -57289,6 +57270,24 @@
       </g:shipping>
     </item>
     <item>
+      <g:id>XOW005</g:id>
+      <g:title><![CDATA[Medium Round Reservoir and Tabbed Grid Kit (60cm Dia)]]></g:title>
+      <g:description><![CDATA[The Medium Plastic Reservoir and Metal Grid Kits are supplied by the specialist stone water feature manufacturer Eastern Connections are a perfect solution when adding a self-contained water feature or a stream collection sump within your garden. These strong plastic sumps are slightly tapered, allowing the top rim to be supported by the surrounding ground. When installed in this way the galvanised steel grid can support a water feature of up to 200 Kg. These kits also feature an inset access cover which allows you to remove and clean your water pump without having to disturb your feature. The grid size is 5.5cm square and perfect for large cobbles and fast drainage. If you would like to use smaller aggregate material like gravel or granite chippings, a non-rotting water permeable material like underlay or greenhouse netting will have to be placed over the grid to stop it falling through. Take care to ensure the material and smaller aggregate do not hinder the speed of drainage and cause flooding. Please note that if it is not possible to support the reservoir lip when installed, the maximum weight limit would be 100 Kg Medium Plastic Reservoir and Metal Grid Kit Features • Medium - 60cm Diameter - 90 Litres • Extremely strong & weatherproof • Includes a galvanised steel grid • Support a water feature of up to 200 Kg • Includes inset access cover • 5.5cm square grid size Medium Plastic Reservoir and Metal Grid Kit Dimensions Inner Diameter: 60cm Outer Diameter: 66cm Height: 33.5cm Grid Diameter: 59cm Grid + Support Tabs Diameter: 67cm Optional Auto Fill Kit The Oase Auto Fill Kit is a simple solution for automatically topping up a water feature sump. Evaporation or "splash out" can cause the water level within your water feature to fall over time. With the installation of an Auto Fill Kit which is connected to a mains water supply, small amounts of water can be added at a time, reducing the need for manual top-ups.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/medium-round-reservoir-and-tabbed-grid-kit-60cm-dia</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Eastern-Connection-Medium-Round-Reservoir-and-Tabbed-Grid_Kit-Pic1.jpg?v=1734607735</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>119.99 GBP</g:price>
+      <g:brand><![CDATA[Eastern Connections]]></g:brand>
+      <g:mpn>XOW005</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Water Features]]></g:product_type>
+      <g:google_product_category>Lawn &amp; Garden &gt; Outdoor Décor &gt; Water Fountains &amp; Ponds</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
       <g:id>XOW006</g:id>
       <g:title><![CDATA[Large Round Reservoir and Tabbed Grid Kit (90cm Dia)]]></g:title>
       <g:description><![CDATA[The Large Plastic Reservoir and Metal Grid Kits are supplied by the specialist stone water feature manufacturer Eastern Connections are a perfect solution when adding a self-contained water feature or a stream collection sump within your garden. These strong plastic sumps are slightly tapered allowing the top rim to be supported by the surrounding ground. When installed in this way the galvanised steel grid can support a water feature of up to 200 Kg. This kits also feature an inset access cover which allows you to remove and clean your water pump without having to disturb your feature. The grid size is 5.5cm Square and perfect for large cobbles and fast drainage. If you would like to use smaller aggregate material like gravel or granite chippings a non-rotting water permeable material like underlay or greenhouse netting will have to be placed over the grid to stop it falling through. Take care to ensure the material and smaller aggregate does not hinder the speed of drainage and cause flooding. Please note that if it is not possible to support the reservoir lip when installed, the maximum weight limit would be 100 Kg Large Plastic Reservoir and Metal Grid Kit Features • Large 90cm Diameter - 150 Litres • Extremely strong & weatherproof • Includes a galvanised steel grid • Support a water feature of up to 200 Kg • Includes inset access cover • 5.5cm square grid size Large Plastic Reservoir and Metal Grid Kit Dimensions Inner Diameter: 80cm Outer Diameter: 87cm Height: 31cm Grid Diameter: 78cm Grid + Support Tabs Diameter: 86cm Optional Auto Fill Kit The Oase Auto Fill Kit is a simple solution for automatically topping up a water feature sump. Evaporation or "splash out" can cause the water level within your water feature to fall over time. With the installation of an Auto Fill Kit which is connected to a mains water supply, small amounts of water can be added at a time reducing the need for manual top-ups.(see Tab below)]]></g:description>
@@ -57316,24 +57315,6 @@
       <g:price>339.99 GBP</g:price>
       <g:brand><![CDATA[Eastern Connections]]></g:brand>
       <g:mpn>XOW007</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type><![CDATA[Water Features]]></g:product_type>
-      <g:google_product_category>Lawn &amp; Garden &gt; Outdoor Décor &gt; Water Fountains &amp; Ponds</g:google_product_category>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard Delivery</g:service>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>XOW005</g:id>
-      <g:title><![CDATA[Victoria 60cm Round Reservoir and Tabbed Grid Kit (60cm Dia)]]></g:title>
-      <g:description><![CDATA[The Victoria 60 and Metal Grid Kits are a perfect solution when adding a self-contained water feature or a stream collection sump within your garden. These strong plastic sumps are slightly tapered, allowing the top rim to be supported by the surrounding ground. When installed in this way, the galvanised steel grid can support a water feature of up to 200 Kg. These kits also feature an inset access cover which allows you to remove and clean your water pump without having to disturb your feature. The grid size is 5cm square and perfect for large cobbles and fast drainage. If you would like to use smaller aggregate material like gravel or granite chippings, a non-rotting water permeable material like underlay or greenhouse netting will have to be placed over the grid to stop it falling through. Take care to ensure the material and smaller aggregate do not hinder the speed of drainage and cause flooding. Please note that if it is not possible to support the reservoir lip when installed, the maximum weight limit would be 100 Kg Victoria 60 Plastic Reservoir and Metal Grid Kit Features • 60cm Diameter - 90 Litres • Extremely strong & weatherproof • Includes a galvanised steel grid • Support a water feature of up to 200 Kg • Includes inset access cover • 5cm square grid size Victoria 60 Plastic Reservoir and Metal Grid Kit Dimensions Inner Diameter: 60cm Outer Diameter: 66cm Height: 33.5cm Grid Diameter: 59cm Grid + Support Tabs Diameter: 67cm Optional Auto Fill Kit The Oase Auto Fill Kit is a simple solution for automatically topping up a water feature sump. Evaporation, or "splash out", can cause the water level within your water feature to fall over time. With the installation of an Auto Fill Kit which is connected to a mains water supply, small amounts of water can be added at a time, reducing the need for manual top-ups.]]></g:description>
-      <g:link>https://watergardeningdirect.com/products/victoria-60cm-round-reservoir-and-tabbed-grid-kit-60cm-dia</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Eastern-Connection-Medium-Round-Reservoir-and-Tabbed-Grid_Kit-Pic1.jpg?v=1734607735</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>119.99 GBP</g:price>
-      <g:brand><![CDATA[Various]]></g:brand>
-      <g:mpn>XOW005</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type><![CDATA[Water Features]]></g:product_type>
       <g:google_product_category>Lawn &amp; Garden &gt; Outdoor Décor &gt; Water Fountains &amp; Ponds</g:google_product_category>
@@ -58313,7 +58294,7 @@
       <g:description><![CDATA[This replacement top cover and sealing gasket set is designed for the Oase AquaOxy 2500 pond air pump. The top cover protects the upper section of the air pump, while the rubber sealing gaskets help prevent rainwater from entering the pump housing. The top cover would normally only need replacing if it has become cracked, broken, distorted, or otherwise damaged. The sealing gaskets are especially important, as they help maintain the weather protection of the pump and reduce the risk of water getting inside the unit. Oase AquaOxy 2500 Replacement Top Cover and Gasket Set Features Replacement top cover and sealing gasket set for the Oase AquaOxy 2500 pond air pump Useful if the original top cover is cracked, broken, or damaged Rubber gaskets help prevent rainwater entering the air pump housing Helps maintain the pump’s weather protection when correctly fitted Genuine Oase spare part for routine repair and maintenance Although the AquaOxy air pump is designed for outdoor pond use, it is still important that the housing remains properly sealed. Damaged covers or worn, missing, or poorly seated gaskets can allow water to reach areas of the pump where it should not be present. Replacing the top cover and gaskets can be a sensible repair if the pump casing has been damaged or if the existing seals are no longer providing a secure fit. When fitting, check that the gaskets are seated correctly and that the cover is properly secured. Good to Know The top cover usually only needs replacing if it is physically damaged The sealing gaskets are important for helping keep rainwater out of the pump Always switch off and isolate the pump before inspection or repair Check the pump housing carefully for any other signs of damage before reuse This genuine Oase replacement top cover and gasket set helps restore the correct external protection of the AquaOxy 2500 pond air pump where the original parts have become damaged or worn.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquaoxy-2500-top-lid-and-gasket-seals-74036</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/Oase-74036-74310-74314-Replacement-AquaOxy-2500-5000-7500-Top-and-Rubber-Gaskets-Pic1.jpg?v=1780663368</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.47 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OASA52</g:mpn>
@@ -58332,7 +58313,7 @@
       <g:description><![CDATA[This replacement top cover and sealing gasket set is designed for the Oase AquaOxy 5000 pond air pump. The cover protects the top of the pump housing, while the rubber gaskets help seal the unit and reduce the risk of rainwater entering the pump. In normal use, the top cover should not require regular replacement unless it has been damaged. However, the sealing gaskets play an important role in maintaining the pump’s weather protection, particularly where the pump is installed outdoors or in an exposed position. Oase AquaOxy 5000 Replacement Top Cover and Gasket Set Features Replacement top cover and sealing gasket set for the Oase AquaOxy 5000 pond air pump Suitable for replacing a damaged, cracked, or broken top cover Rubber gaskets help prevent rainwater entering the pump housing Helps maintain the external protection of the air pump Genuine Oase spare part for repair and servicing Rainwater entering an air pump can cause performance and reliability issues, so the outer casing and seals should be kept in good condition. If the original cover has been damaged or the gaskets are missing, perished, or not sealing correctly, replacement is recommended before the pump is returned to use. When installing the replacement cover and gaskets, make sure the seals are positioned correctly and the cover is fitted securely. This helps the pump housing continue to offer the intended level of protection against rain and general outdoor conditions. Good to Know The cover is mainly replaced after impact damage, cracking, or casing wear Sealing gaskets help protect the pump from water ingress Always isolate the air pump from the power supply before maintenance Inspect the surrounding casing and cable entry points for further damage This genuine Oase replacement top cover and gasket set is a practical repair part for helping keep the AquaOxy 5000 pond air pump properly protected and ready for continued pond aeration use.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquaoxy-5000-top-lid-and-gasket-seals-74010</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/Oase-74036-74310-74314-Replacement-AquaOxy-2500-5000-7500-Top-and-Rubber-Gaskets-Pic1.jpg?v=1780663368</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.47 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OASA53</g:mpn>
@@ -58351,7 +58332,7 @@
       <g:description><![CDATA[This replacement top cover and sealing gasket set is designed for the Oase AquaOxy 7500 pond air pump. The cover protects the upper pump housing, while the rubber sealing gaskets help keep rainwater from entering the air pump. The top cover is not usually a routine wear part and would normally only need replacing if it has been cracked, broken, or damaged. The gaskets are important because they help maintain the seal between the cover and pump body, supporting the pump’s outdoor weather protection. Oase AquaOxy 7500 Replacement Top Cover and Gasket Set Features Replacement top cover and sealing gasket set for the Oase AquaOxy 7500 pond air pump Useful where the original top cover has been damaged Rubber sealing gaskets help prevent rainwater getting into the pump Helps maintain the pump housing seal when correctly fitted Genuine Oase spare part for repair and maintenance Keeping the air pump housing properly sealed is important for reliable operation. A damaged cover or ineffective gasket can increase the risk of water entering the unit, especially if the pump is positioned outside and exposed to rain. This replacement set is useful when repairing a damaged AquaOxy 7500 casing or refreshing the sealing parts around the cover. Correct fitting is important, so ensure the gaskets sit evenly and that the cover is fully secured before reconnecting the pump. Good to Know The top cover usually only requires replacement if damaged Gaskets help protect the internal pump area from rainwater ingress Always switch off and isolate the pump before carrying out repairs Do not use the pump if the casing is damaged in a way that may allow water inside This genuine Oase replacement top cover and gasket set helps restore the external protection of the AquaOxy 7500 pond air pump where the original cover or seals have been damaged.]]></g:description>
       <g:link>https://watergardeningdirect.com/products/oase-aquaoxy-7500-top-lid-and-gasket-seals-74014</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/Oase-74036-74310-74314-Replacement-AquaOxy-2500-5000-7500-Top-and-Rubber-Gaskets-Pic1.jpg?v=1780663368</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.47 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>OASA54</g:mpn>
@@ -58460,6 +58441,25 @@
       </g:shipping>
     </item>
     <item>
+      <g:id>EAS115</g:id>
+      <g:title><![CDATA[Evolution Aqua Varipump 20000 Front Blue Casing (VP20BLCAS)]]></g:title>
+      <g:description><![CDATA[Genuine replacement front blue casing (impeller housing) for a Evolution Aqua Varipump 20000]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/evolution-aqua-varipump-20000-front-blue-casing-vp20blcas</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/S_Evolution-Aqua-EAS111-Varipump-10000-Blue-Front-Casing-VP10BLCAS-VP10BLCAS.jpg?v=1740758804</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>8.45 GBP</g:price>
+      <g:brand><![CDATA[Evolution Aqua]]></g:brand>
+      <g:mpn>EAS115</g:mpn>
+      <g:gtin>5056231203180</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Pump Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
       <g:id>EAS120</g:id>
       <g:title><![CDATA[Evolution Aqua Varipump 30000 Hosetail Set (VP30HOSETAIL)]]></g:title>
       <g:description><![CDATA[Genuine replacement Hosetail Set for the Evolution Aqua Varipump 30000 which allow the connection of 32mm, 38mm and 50mm flexible hose using the stepped hosetail and 50mm on the non-stepped hosetails.]]></g:description>
@@ -58510,6 +58510,329 @@
       <g:gtin>5056231202749</g:gtin>
       <g:condition>new</g:condition>
       <g:product_type><![CDATA[Pump Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS011</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 700 - Replacement 12w Solar Panel Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement 12w Solar Panel Set for the Betta Choice Solar Fountain Pump 700, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set includes a replacement 12w panel and mounting bracket and spike.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-700-replacement-12w-solar-panel-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-12w-Solar-Panel-ans-Stand-YF269-Front.jpg?v=1780922964</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS011</g:mpn>
+      <g:gtin>5031799612698</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS012</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1400 - Replacement 25w Solar Panel Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement 25w Panel Set for the Betta Choice Solar Fountain Pump 1400, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set includes a replacement 25w panel and mounting bracket and spike.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1400-replacement-25w-solar-panel-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-25w-Solar-Panel-ans-Stand-YF270-Front.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>69.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS012</g:mpn>
+      <g:gtin>5031799612704</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS013</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1800 - Replacement 35w Solar Panel Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement 35w Solar Panel Set for the Betta Choice Solar Fountain Pump 1800, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set includes a replacement 35w panel and mounting bracket and spike.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1800-replacement-35w-solar-panel-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-35w-Solar-Panel-ans-Stand-YF271-Front.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>79.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS013</g:mpn>
+      <g:gtin>5031799612711</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS014</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 3500 - Replacement 40w Solar Panel Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement 40w Solar Panel Set for the Betta Choice Solar Fountain Pump 3500, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set includes a replacement 40w panel and mounting bracket and spike.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-3500-replacement-40w-solar-panel-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-45w-Solar-Panel-and-Stand-YF272-Front.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>89.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS014</g:mpn>
+      <g:gtin>5031799612728</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS015</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 5250 - Replacement 50w Solar Panel Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement 50w Solar Panel Set for the Betta Choice Solar Fountain Pump 5250, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set includes a replacement 50w panel and mounting bracket and spike.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-5250-replacement-50w-solar-panel-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-50w-Solar-Panel-and-Stand-YF273-Front.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS015</g:mpn>
+      <g:gtin>5031799612735</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS021</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 700 - Replacement Impeller]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Impeller for the Betta Choice Solar Fountain Pump 700, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken impeller to restore its full design flowrate. Please note that this item does not include the Ceramic Shaft with Rubber Bushes , which is sold as a separate item.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-700-replacement-impeller</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-700-1400-1800-YF276-YF277-YF278.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS021</g:mpn>
+      <g:gtin>5031799612766</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS032</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1400 - Replacement Ceramic Shaft and Rubber Bushes]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Ceramic Shaft and Rubber Bushes for the Betta Choice Solar Fountain Pump 1400 impeller, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken ceramic shaft to restore its full design flowrate. Please note that this item does not include the impeller , which is sold as a separate item.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1400-replacement-ceramic-shaft-and-rubber-bushes</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-Ceramic-Shaft-700-1400-1800-YF276-YF277-YF278.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS032</g:mpn>
+      <g:gtin>5031799612827</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS022</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1400 - Replacement Impeller]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Impeller for the Betta Choice Solar Fountain Pump 1400, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken impeller to restore its full design flowrate. Please note that this item does not include the Ceramic Shaft with Rubber Bushes , which is sold as a separate item.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1400-replacement-impeller</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-700-1400-1800-YF276-YF277-YF278.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>11.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS022</g:mpn>
+      <g:gtin>5031799612773</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS031</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 700 - Replacement Ceramic Shaft and Rubber Bushes]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Ceramic Shaft and Rubber Bushes for the Betta Choice Solar Fountain Pump 700 impeller, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken ceramic shaft to restore its full design flowrate. Please note that this item does not include the impeller , which is sold as a separate item.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-700-replacement-ceramic-shaft-and-rubber-bushes</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-Ceramic-Shaft-700-1400-1800-YF276-YF277-YF278.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS031</g:mpn>
+      <g:gtin>5031799612810</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS033</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1800 - Replacement Ceramic Shaft and Rubber Bushes]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Ceramic Shaft and Rubber Bushes for the Betta Choice Solar Fountain Pump 1800 impeller, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken ceramic shaft to restore its full design flowrate. Please note that this item does not include the impeller , which is sold as a separate item.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1800-replacement-ceramic-shaft-and-rubber-bushes</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-Ceramic-Shaft-700-1400-1800-YF276-YF277-YF278.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS033</g:mpn>
+      <g:gtin>5031799612834</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS023</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1800 - Replacement Impeller]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Impeller for the Betta Choice Solar Fountain Pump 1800, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken impeller to restore its full design flowrate. Please note that this item does not include the Ceramic Shaft with Rubber Bushes , which is sold as a separate item.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1800-replacement-impeller</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-700-1400-1800-YF276-YF277-YF278.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS023</g:mpn>
+      <g:gtin>5031799612780</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS024</g:id>
+      <g:title><![CDATA[Betta Choice Solar Waterfall Pump 3500 - Replacement Impeller]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Impeller for the Betta Choice Solar Waterfall Pump, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken impeller to restore its full design flowrate.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-waterfall-pump-3500-replacement-impeller</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-3500-YF279.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS024</g:mpn>
+      <g:gtin>5031799612797</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS025</g:id>
+      <g:title><![CDATA[Betta Choice Solar Waterfall Pump 5250 - Replacement Impeller]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Impeller for the Betta Choice 5250 Solar Waterfall Pump, which is supplied to us by Betta Choice to ensure full compatibility with your original product. Intended to replace an existing worn or broken impeller to restore its full design flowrate.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-waterfall-pump-5250-replacement-impeller</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Impellor-5250-YF280.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>24.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS025</g:mpn>
+      <g:gtin>5031799612803</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS026</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 700 / 1400 - Replacement Fountain Head Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Fountain Head Set for the Betta Choice 700 or 1400 Solar Fountain Pump, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set contains 4 fountain tube extensions, a bell jet and a daisy jet head.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-700-1400-replacement-fountain-head-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Fountain-Head-Set-700-1400-1800-YF274-YF275.jpg?v=1780933384</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS026</g:mpn>
+      <g:gtin>5031799612742</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKA015</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 700 / 1400 / 1800 - 5m Extension Cable]]></g:title>
+      <g:description><![CDATA[This is a genuine 5m Solar Extension Cable for the Betta Choice Solar 700 / 1400 / 1800 Solar Fountain Pumps, which is supplied to us by Betta Choice. The cable can be used to extend the distance between the solar fountain pump and the solar panel, allowing it to be placed in the optimum position for maximum sunlight.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-700-1400-1800-5m-extension-cable</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Solar-5m-Extension-Cable-700-1400-1800-3500-5250-YF265-YF266.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKA015</g:mpn>
+      <g:gtin>5031799612650</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKS027</g:id>
+      <g:title><![CDATA[Betta Choice Solar Fountain Pump 1800 - Replacement Fountain Head Set]]></g:title>
+      <g:description><![CDATA[This is a genuine Replacement Fountain Head Set for the Betta Choice 1800 Solar Fountain Pump, which is supplied to us by Betta Choice to ensure full compatibility with your original product. This set contains 4 fountain tube extensions, a bell jet, foam jet and a daisy jet head.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-fountain-pump-1800-replacement-fountain-head-set</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Replacement-Solar-Pump-Fountain-Head-Set-700-1400-1800-YF274-YF275.jpg?v=1780933384</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKS027</g:mpn>
+      <g:gtin>5031799612759</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>JKA016</g:id>
+      <g:title><![CDATA[Betta Choice Solar Waterfall Pump 3500 / 5250 - 5m Extension Cable]]></g:title>
+      <g:description><![CDATA[This is a genuine 5m Solar Extension Cable for the Betta Choice Solar 3500 / 5250 Solar Waterfall Pumps, which is supplied to us by Betta Choice. The cable can be used to extend the distance between the solar waterfall pump and the solar panels, allowing them to be placed in the optimum position for maximum sunlight.]]></g:description>
+      <g:link>https://watergardeningdirect.com/products/betta-choice-solar-waterfall-pump-3500-5250-5m-extension-cable</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Betta-Choice-Solar-5m-Extension-Cable-700-1400-1800-3500-5250-YF265-YF266.jpg?v=1780922963</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+      <g:brand><![CDATA[Betta Choice]]></g:brand>
+      <g:mpn>JKA016</g:mpn>
+      <g:gtin>5031799612667</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Filter Spares]]></g:product_type>
       <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
       <g:shipping>
         <g:country>GB</g:country>
