@@ -5,7 +5,7 @@
     <link>https://www.watergardeningdirect.com</link>
     <description>Water Gardening Direct product feed for Google Merchant Centre</description>
     <language>en-gb</language>
-    <!-- Generated: 2026-07-22T01:00:40.423Z | Products: 3171 | Items: 3169 | Skipped (no SKU): 2 -->
+    <!-- Generated: 2026-07-23T01:00:39.197Z | Products: 3171 | Items: 3170 | Skipped (no SKU): 1 -->
     <item>
       <g:id>OAW121</g:id>
       <g:title><![CDATA[Oase Watercourse Spring / Spillway Box 15000]]></g:title>
@@ -32,7 +32,7 @@
       <g:link>https://www.watergardeningdirect.com/products/oase-watercourse-spring-spillway-box-22500</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Watercourse-Spring-Spillway-Box-25000-Pic1_20cb79b1-59b9-4079-82da-07cb063c62c9.jpg?v=1734618597</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>244.98 GBP</g:price>
+      <g:price>244.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>72947</g:mpn>
       <g:gtin>4010052729473</g:gtin>
@@ -126,7 +126,7 @@
       <g:description><![CDATA[The Oase Stainless Steel Waterfall 90 is a simple solution to creating 900mm wide waterfall or water chute in your garden. Made from high quality stainless steel (Grade 1.4401 V4A) they allow a single hose to supply water which is then internally baffled to create an even sheet of water 900mm wide over the 63mm deep lip. To increase the ease of installation these waterfalls have a connection at the back and the bottom, so one can be fitted with a connection hosetail and the other with a plug (both supplied). The supplied hosetail will accept 19mm, 25mm, 32mm or 38mm (¾", 1", 1¼" or 1½") flexible pipework, however we suggest the largest size hose that your pump can accept should be used. As with all waterfalls the flowrate required to ensure that the sheet is still wide enough when it hits the surface of the pond / reservoir is determined by both the width of waterfall and the installation height. See our sizing chart below to determine the correct pump size. Oase Stainless Steel Waterfall 90 Features High quality marine grade stainless steel (1.4401 V4A / 316) Single hose connection. Back or bottom connection position 63mm deep lip Can be wall mounted Dimensions: 900mm Wide x 100mm High x 140mm Total Depth Recommended Flowrate: 9000 - 20000 LPH (1980 - 4400 GPH) 2 year guarantee Important Installation Note The needs to be fed with water which is under pressure, for example from a pump or the outflow of a pressurised filter. Gravity feeds from a box type filter would not be suitable.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-stainless-steel-waterfall-90-90cm-wide</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Stainless-Steel-Waterfall-90-90cm-wide-Pic1_8b1cf915-2e8d-436d-8100-9e1200374c9a.jpg?v=1734618538</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>244.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>50706</g:mpn>
@@ -3709,7 +3709,7 @@
       <g:description><![CDATA[The Simply Pond Partridge Preformed Ponds are ideal for fish and wildlife ponds, are easy to install and are supplied with a 15 year guarantee. They are made from 4mm thick HDPE (High Density Polyethylene) for good rigidity and durability. Unlike sheet liner the finished pond will look neater without any unsightly creases. The Simply Pond Partridge has built in planting shelves. Simply Pond - - Partridge Preformed Pond Dimensions Longest Length: 140cm Widest Width: 77cm Max Depth: 43cm Shelf Depth: 21cm Capacity: 205 Litres (45 Gallons) Alternative Name : Lake Kentmere Preformed Pond Installation. Please note that ALL of our pre-formed ponds must be fully supported and can't be used as FREESTANDING ponds (see our installation guide tab below). However, provided they receive enough support (using a strong support framework) they can be used above ground. If you would like to finish this pond with edging stones or slabs, it has a perimeter of approximately 5.0m 15 Year Anti-Perforation Guarantee The Simply Pond Partridge High Density Preformed Pond is covered by a 15 Year anti-perforation guarantee which is valid in the event of faulty workmanship or materials. Proof of purchase must be returned, with the pond, to the point of purchase. Perforation due to incorrect installation will invalidate the guarantee, and no liability can be accepted, under any circumstances, for consequential losses or costs. Your statutory rights remain unaffected.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/simply-pond-partridge-preformed-pond</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_ALF-Simply-Pond-Patridge-Lake-Crummock-Preformed-Pond-Pic1_08e57ebb-1bf7-41a7-aaf4-6c2805ce49ca.jpg?v=1737460890</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>129.98 GBP</g:price>
       <g:brand><![CDATA[Simply Pond]]></g:brand>
       <g:mpn>150924</g:mpn>
@@ -9718,25 +9718,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>BOH141</g:id>
-      <g:title><![CDATA[12mm (½ inch) Flexible Pipework Y Connector]]></g:title>
-      <g:description><![CDATA[The 12mm (½") Flexible Pipework Y Connector can be used to allow you to split 1 x 12mm (½") pipe into 2]]></g:description>
-      <g:link>https://www.watergardeningdirect.com/products/12mm-inch-flexible-pipework-y-connector</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_12mm-19mm-Flexible-Pipework-Y-Connector_9a2fbae1-a0e0-4383-889e-0a183248dc7a.jpg?v=1734615050</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:brand><![CDATA[Bosta]]></g:brand>
-      <g:mpn>0440304</g:mpn>
-      <g:gtin>5055436538905</g:gtin>
-      <g:condition>new</g:condition>
-      <g:product_type><![CDATA[Pond Products > Pumping and Filtering your Pond > Flexible Hose and Fittings > 12mm and 19mm Flexible Pipework Y Connectors]]></g:product_type>
-      <g:google_product_category>Hardware &gt; Plumbing &gt; Plumbing Fittings &amp; Supports</g:google_product_category>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard Delivery</g:service>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>BOH142</g:id>
       <g:title><![CDATA[19mm (¾ inch) Flexible Pipework Y Connector]]></g:title>
       <g:description><![CDATA[The 19mm (¾") Flexible Pipework Y Connector can be used to allow you to split 1 x 19mm (¾") pipe into 2]]></g:description>
@@ -9748,7 +9729,7 @@
       <g:mpn>0440308</g:mpn>
       <g:gtin>5055436538912</g:gtin>
       <g:condition>new</g:condition>
-      <g:product_type><![CDATA[Pond Products > Pumping and Filtering your Pond > Flexible Hose and Fittings > 12mm and 19mm Flexible Pipework Y Connectors]]></g:product_type>
+      <g:product_type><![CDATA[Pond Products > Pumping and Filtering your Pond > Flexible Hose and Fittings > Flexible Pipework Universal Y and T Connectors]]></g:product_type>
       <g:google_product_category>Hardware &gt; Plumbing &gt; Plumbing Fittings &amp; Supports</g:google_product_category>
       <g:shipping>
         <g:country>GB</g:country>
@@ -11725,7 +11706,7 @@
       <g:description><![CDATA[The yellow iris produces an abundance of rich yellow flowers. A strong growing robust plant that tolerates a wide variation of conditions. Plant in a large container using aquatic soil and covering with pea gravel. Trim decaying foliage in autumn. Common Name: Yellow Flag Iris Flowering Time: May to July Planting Depth: 0 - 200mm (0 - 8 inch) Plant Height: 600 - 800mm (24 inch - 30 inch) All our plants are supplied in 9cm square planting pots and are ready to put in your pond, however as they grow they will definitely benefit from replanting into larger baskets with more soil. To see our full range of planting accessories click here]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/yellow-flag-iris-iris-pseudacorus</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Potted-Pond-Plant-WPK142-Yellow-Flag-Iris-Pseudacorus-Pic1_c5972fd9-adb2-4733-8ae6-5575ae3060cb.jpg?v=1734620158</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
       <g:brand><![CDATA[Various]]></g:brand>
       <g:gtin>0755598902631</g:gtin>
@@ -23810,7 +23791,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase SwimSkim 25 Skimmer Flap - Single (15656), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-swimskim-25-skimmer-flap-single-15656</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS873-SwimSkim-25-Skimmer-Flap-Single-15656_039db841-3c20-43bb-937e-90448514a6f9.jpg?v=1734618553</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.32 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>15656</g:mpn>
@@ -25021,7 +25002,7 @@
       <g:description><![CDATA[This is a genuine replacement Replacement Cathodes for Velda I-Tronic 5 (126705), which is supplied to us by Velda to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/replacement-cathodes-for-velda-i-tronic-5-126705</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Velda-I-Tronic-and-T-Flow-Tronic-Replacement-Cathode-5-15-35-75-Pic1_d0669db4-4fc9-48b7-881f-d7bc9200e460.jpg?v=1734618725</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>34.79 GBP</g:price>
       <g:brand><![CDATA[Velda]]></g:brand>
       <g:mpn>1320230</g:mpn>
@@ -25398,7 +25379,7 @@
       <g:title><![CDATA[Evolution Aqua Soft Silicon Tube - Rubber Elbow to LDP Pipe Adaptor - 50cm]]></g:title>
       <g:description><![CDATA[This Evolution Aqua Soft Silicon Tube is used to adapt between the 12mm LDP air pipe in Nexus and EazyPod filters to the black rubber air tube elbows. Supplied in a 50cm length Evolution Aqua Soft Silicon Tube Dimensions Internal Diameter: 12mm External Diameter: 20mm Length: 50cm]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/evolution-aqua-soft-silicon-tube-rubber-elbow-to-ldp-pipe-adaptor-50cm</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Evolution-Aqua-Soft-Silicon-Tube-Rubber-Elbow-to-LDP-Pipe-Adaptor-50cm-Pic1_f79a70ea-cbee-4ddd-8500-62fda8c37d36.jpg?v=1737460842</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Evolution-Aqua-Soft-Silicon-Tube-Rubber-Elbow-to-LDP-Pipe-Adaptor-50cm-Pic2.jpg?v=1784709703</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>13.95 GBP</g:price>
       <g:brand><![CDATA[Evolution Aqua]]></g:brand>
@@ -51924,7 +51905,7 @@
       <g:link>https://www.watergardeningdirect.com/products/oase-waterfall-spring-spillway-box-22500</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-Watercourse-Spring-Spillway-Box-35000-Pic1_2ec96196-0236-44bc-8727-6e0a97919f03.jpg?v=1734618598</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>244.98 GBP</g:price>
+      <g:price>244.99 GBP</g:price>
       <g:brand><![CDATA[Pontec]]></g:brand>
       <g:mpn>72947</g:mpn>
       <g:gtin>4010052729473</g:gtin>
@@ -52919,7 +52900,7 @@
     <item>
       <g:id>OAC505</g:id>
       <g:title><![CDATA[Pontec Pondorell 1500 - Solar Pond Filter]]></g:title>
-      <g:description><![CDATA[Ideal for wildlife ponds, the Pontec Pondorell 1500 - Solar Pond Filter is a compact, solar-powered underwater filter which includes a pump, filter material and a UVC unit and is suitable for wildlife ponds up to 1,500 litres (without fish stocks). Being solar powered there is no energy cost and no need for mains powered cable; however, it is supplied with a mains adapter so if it is close enough to power, it can be operated even on cloudy days. Powered by a 15w solar panel, the pump draws the water through the filter and UV and pushes the water up through the fountain nozzle. The 2 fountain nozzles supplied are a fine spray jet and a bell jet. The maximum depth for the fountain nozzles when using the extensions is 300mm. The pump and UV are supplied with 5m of cable, which then connects to a 5m joiner and extension cable, allowing the panel to be located up to 10m away from the filter location. The Pontec Pondorell 1500 - Solar Pond Filter includes a mains power adapter which has a 1.8m cable but does not include a battery unit. Supplied with a 2-year guarantee. Pontec Pondorell 1500 - Solar Pond Filter Features Solar Powered - No Mains Requires Suitable for wildlife ponds 2 Fountains Head Designs 10m Solar cable 1.8m Mains Adapter 2 Year Guarantee Pontec Pondorell 1500 - Solar Pond Filter Dimensions: Panel - 440mm x 290mm Pump/Filter - 270mm x 190mm x 115mm]]></g:description>
+      <g:description><![CDATA[Ideal for wildlife ponds, the Pontec Pondorell 1500 - Solar Pond Filter is a compact, solar-powered underwater filter which includes a pump, filter material and a UVC unit and is suitable for wildlife ponds up to 1,500 litres (without fish stocks). Being solar powered there is no energy cost and no need for mains powered cable; however, it is supplied with a mains adapter so if it is close enough to power, it can be operated even on cloudy days. Powered by a 15w solar panel, the pump draws the water through the filter and UV and pushes the water up through the fountain nozzle. The 2 fountain nozzles supplied are a fine spray jet and a bell jet. The maximum depth for the fountain nozzles when using the extensions is 300mm. The pump and UV are supplied with 5m of cable, which then connects to a 5m joiner and extension cable, allowing the panel to be located up to 10m away from the filter location. The Pontec Pondorell 1500 - Solar Pond Filter includes a mains power adapter which has a 1.8m cable but does not include a battery unit. Supplied with a 2-year guarantee. Pontec Pondorell 1500 - Solar Pond Filter Features Solar Powered - No Mains Required Suitable for wildlife ponds 2 Fountains Head Designs 10m Solar cable 1.8m Mains Adapter 2 Year Guarantee Pontec Pondorell 1500 - Solar Pond Filter Dimensions: Panel - 440mm x 290mm Pump/Filter - 270mm x 190mm x 115mm]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/pontec-pondorell-1500-solar-pond-filter</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Pontec-PondoRell-1500-Solar-Filter-Pic1.jpg?v=1747410829</g:image_link>
       <g:availability>in stock</g:availability>
@@ -59512,6 +59493,24 @@
       </g:shipping>
     </item>
     <item>
+      <g:id>PMP025</g:id>
+      <g:title><![CDATA[Fish Mate 3000 Fountain Pump - Model 470]]></g:title>
+      <g:description><![CDATA[The Fish Mate Pond Pump 3000 – Model 470 is a submersible pond pump designed to circulate water and operate a fountain, waterfall or pond filter. Its integrated strainer helps reduce blockages while supporting steady water movement and aeration within the pond. Multi Functional Pump for Fountains / Waterfall Maximum flow rate of 4,500 litres per hour Anti-clog strainer design for easier cleaning Single control knob adjusts flow between the fountain and waterfall or filter outlet Ceramic shaft bearings and a durable rotor design Fully encapsulated electrical components Includes a fountain set with four display options The pump uses a rigid strainer filter rather than a conventional foam filter. This design is less prone to blockage and allows collected debris to be removed during routine pond maintenance. The adjustable flow control allows water to be directed to the included fountain attachment while also supplying a waterfall or filtration system. A choice of outlet sizes makes the pump compatible with several common pond hose diameters. The pump is supplied with a 10-metre power cable and is intended for continuous use in garden ponds. Its ceramic shaft bearings and encapsulated electrical components are designed to provide reliable operation in submerged conditions. Maximum Flow Rate 4,500 litres per hour Maximum Head Height 4 metres (13 ft 1 in) Power Consumption 100 watts Dimensions 273 × 185 × 125 mm Outlet Sizes 12 mm, 19 mm and 25 mm Power Cable Length 10 metres Guarantee 3 years What’s Included Fish Mate pond pump Strainer filter housing Fountain set with four display options Stepped hose outlet connections 10-metre power cable Good to Know The supplied product information lists this item as the Fish Mate Pond Pump 3000, Model 470, while specifying a maximum flow rate of 4,500 litres per hour. Check the requirements of any connected filter, waterfall or hosework when selecting the appropriate outlet size and operating flow.]]></g:description>
+      <g:link>https://www.watergardeningdirect.com/products/fish-mate-3000-fountain-pump-model-470</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/FishMate-3000-Pond-Fountain-Pump-Model-470-Pic1.jpg?v=1784627767</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>59.99 GBP</g:price>
+      <g:brand><![CDATA[Fish Mate]]></g:brand>
+      <g:mpn>390</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Pond Products > Pumping and Filtering your Pond > Pond Fountain Pumps and Accessories]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
       <g:id>SME245</g:id>
       <g:title><![CDATA[Smart Solar - TwoTone Rechargeable String Lights – 100 LEDs – Warm/Cool]]></g:title>
       <g:description><![CDATA[The Smart Solar - TwoTone Rechargeable String Lights are a 100 LED decorative lighting set with a choice of warm white or cool white illumination. Powered by a removable USB rechargeable battery pack, they can be positioned without relying on a mains connection or solar panel. Smart Solar - TwoTone Rechargeable String Lights Features Choice of warm white or cool white LEDs Weatherproof rechargeable battery pack Selectable 4, 6 or 8 hour operating time 7.5 metre string with 100 LEDs No disposable batteries required Supplied on a plastic storage drum To recharge the lights, unscrew the battery pack from the string and connect it to a suitable USB port. Once charged, the pack can be refitted and the lights positioned wherever decorative lighting is required. Controls on the battery pack allow you to select the lighting colour and choose how long the lights remain on. When the lights are not being used, the supplied drum helps keep the cable wound neatly for storage. Smart Solar - TwoTone Rechargeable String Lights Specifications Number of LEDs: 100 Light Colour Options: Warm white or cool white Lit String Length: 7.5 metres Total Length: 9.5 metres Power Source: USB rechargeable battery pack Timer Options: 4, 6 or 8 hours Battery Pack: Removable and weatherproof What's Included Smart Solar TwoTone 100 LED string light set USB rechargeable battery pack Plastic storage drum]]></g:description>
@@ -59620,6 +59619,25 @@
       <g:condition>new</g:condition>
       <g:product_type><![CDATA[Pond Products > Pumping and Filtering your Pond > Flexible Hose and Fittings > Male Threaded Hosetails]]></g:product_type>
       <g:google_product_category>Hardware &gt; Plumbing &gt; Plumbing Fittings &amp; Supports</g:google_product_category>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>EAS016</g:id>
+      <g:title><![CDATA[Evolution Aqua Elbowed Rubber Airline Connector and Clips]]></g:title>
+      <g:description><![CDATA[This Rubber Elbowed Airline Manifold Connector and Clips will allow you to connect your existing Evolution Aqua air pump to an airline manifold using the 2 included spring clips]]></g:description>
+      <g:link>https://www.watergardeningdirect.com/products/evolution-aqua-elbowed-rubber-airline-connector-and-clips</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Evolution-Aqua-90-Degree-Rubber-Elbow-Pic1_e1adac2c-aede-4bad-b03b-727191298a97.jpg?v=1737460827</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>5.95 GBP</g:price>
+      <g:brand><![CDATA[Evolution Aqua]]></g:brand>
+      <g:mpn>EAZYPAIRRUELBOW</g:mpn>
+      <g:gtin>5055436537267</g:gtin>
+      <g:condition>new</g:condition>
+      <g:product_type><![CDATA[Spare Parts > Evolution Aqua Spares Parts]]></g:product_type>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Fish Supplies &gt; Aquarium &amp; Fish Tank Accessories</g:google_product_category>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard Delivery</g:service>
