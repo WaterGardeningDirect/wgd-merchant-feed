@@ -5,7 +5,7 @@
     <link>https://www.watergardeningdirect.com</link>
     <description>Water Gardening Direct product feed for Google Merchant Centre</description>
     <language>en-gb</language>
-    <!-- Generated: 2026-09-23T01:00:39.591Z | Products: 3201 | Items: 3200 | Skipped (no SKU): 1 -->
+    <!-- Generated: 2026-09-24T01:00:42.048Z | Products: 3201 | Items: 3200 | Skipped (no SKU): 1 -->
     <item>
       <g:id>OAW121</g:id>
       <g:title><![CDATA[Oase Watercourse Spring / Spillway Box 15000]]></g:title>
@@ -563,7 +563,7 @@
       <g:description><![CDATA[This 6V AC/DC indoor transformer has a 5m cable with a Jack plug style connector which measures 5.5mm diameter and 12mm long. This 6V AC/DC mains adaptor is used instead of the original solar panel and is suitable for use with older Smart Solar water features not the new design with a threaded connection.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/smart-solar-6v-ac-dc-mains-adaptor</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Smart-Solar-5v-6v-AC-DC-Mains-Adaptor-Pic1_f566df87-e2f1-4d57-b85b-6f2c8d592829.jpg?v=1734618738</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
       <g:brand><![CDATA[Smart Solar]]></g:brand>
       <g:mpn>805UKMO1</g:mpn>
@@ -753,7 +753,7 @@
       <g:description><![CDATA[This 5m x 6m (16ft 4 Inch x 19ft 8 Inch) PVC pond liner from Gordon Low is a traditional 0.5mm thick plastic pond liner which offers a budget alternative to rubber liners. Using only virgin PVC, these liners have a very good resistance to UV damage and come with a 30 year guarantee against material breakdown. Unfortunately, as PVC liners are thinner and have very little flexibility, they do not offer the same resistance to punctures as rubber liners, but when the budget is tight and you need an alternative to rubber, these high quality PVC liners from Gordon Low can be a great option for both ponds and water features. This 5m x 6m liner is a total of 30 square metres and could be used to create a rectangular nature or fish pond of up to 3.2m long x 4.2m wide x 0.6m deep or a circular nature or fish pond of up to 3.2m diameter x 0.6m deep (assuming a 0.3m wide top overlap).]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/6m-x-5m-19ft-8-inch-x-16ft-4-inch-0-50mm-30-year-pvc-pond-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-PVC-Pond-Liner-Pic1.jpg?v=1734608218</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>132.00 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>A5X6</g:mpn>
@@ -829,7 +829,7 @@
       <g:description><![CDATA[This 4m x 4m (13ft 3 Inch x 13ft 3 Inch) PVC pond liner from Gordon Low is a traditional 0.5mm thick plastic pond liner which offers a budget alternative to rubber liners. Using only virgin PVC, these liners have a very good resistance to UV damage and come with a 30 year guarantee against material breakdown. Unfortunately, as PVC liners are thinner and have very little flexibility, they do not offer the same resistance to punctures as rubber liners, but when the budget is tight and you need an alternative to rubber, these high quality PVC liners from Gordon Low can be a great option for both ponds and water features. This 4m x 4m liner is a total of 16 square metres and could be used to create a rectangular nature or fish pond of up to 2.2m long x 2.2m wide x 0.6m deep or a circular nature or fish pond of up to 2.2m diameter x 0.6m deep (assuming a 0.3m wide top overlap).]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/4m-x-4m-13ft-3-inch-x-13ft-3-inch-0-50mm-30-year-pvc-pond-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-PVC-Pond-Liner-Pic1.jpg?v=1734608218</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>70.40 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>A4X4</g:mpn>
@@ -1807,7 +1807,7 @@
       <g:description><![CDATA[This 1m x 6m (3ft 3 Inch x 19ft 8 Inch approx.) Greenseal EPDM pond liner from Gordon Low is a modern 0.75mm thick EPDM pond liner which offers a perfect balance between performance and value and is our most popular rubber liner. With the look, feel and arguably better performance of tradition Butyl but at a significantly lower price Greenseal pond liner is particularly suitable for garden fish ponds and water features . With great flexibility and resistance to temperature change and UV damage this material comes with a lifetime guarantee against material breakdown. This 1m x 6m liner is a total of 6 square metres and could be used and could be used to create a stream of up to 0.4m wide x 5.4m long x 0.2m deep (assuming a 0.1m wide edge overlap)]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/1m-x-6m-3ft-3-inch-x-19ft-8-inch-greenseal-epdm-stream-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-GreenSeal-Eco-EPDM-Pond-Liner-Pic1.jpg?v=1734608207</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>59.70 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>GS1.0X6.0</g:mpn>
@@ -2392,7 +2392,7 @@
       <g:description><![CDATA[This 2.5m x 3m (8ft x 10ft approx.) Butyl pond liner from Gordon Low is a tradition 0.75mm thick rubber pond liner which was always the preferred option for most pond installers. With great flexibility and resistance to temperature change and UV damage this material comes with a lifetime guarantee against material breakdown. Although less popular than the more cost effective EPDM rubber liners like Greenseal and Pondgard , Butyl is a great options for garden fish ponds. This 2.5m x 3m liner is a total of 7.5 square metres and could be used to create a rectangular nature pond of up to 1.5m long x 2m wide x 0.3m deep or a circular nature pond of up to 1.5m diameter x 0.3m deep (assuming a 0.2m wide top overlap).]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/2-5m-x-3m-8ft-x-10ft-butyl-pond-liner</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_GordonLow-Butyl-Pond-Liner-Pic1.jpg?v=1734608202</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>93.68 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:mpn>GLP32002</g:mpn>
@@ -3282,7 +3282,7 @@
       <g:description><![CDATA[QuickSeam - QuickPrime Plus solvent primer is used to prepare Greenseal or Elevate PondGard (was Firestone) rubber liner surface(s) for either Quick Seam Splice Tape or Flash Form. The 125ml can should be enough for a 3m seam when using Splice Tape or 1m when using the Flash Form]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/quickseam-quickprime-plus-125ml</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Gordon-Low-QuickSeam-QuickPrime-Plus-125ml-250ml_c61af24a-51ef-4b96-af2f-24a7603752ad.jpg?v=1734618710</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>24.99 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:condition>new</g:condition>
@@ -3299,7 +3299,7 @@
       <g:description><![CDATA[QuickSeam - QuickPrime Plus solvent primer is used to prepare Greenseal or Elevate PondGard (was Firestone) rubber liner surface(s) for either Quick Seam Splice Tape or Flash Form. The 250ml can should be enough for a 6m seam when using Splice Tape or 2m when using the Flash Form]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/quickseam-quickprime-plus-250ml</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Gordon-Low-QuickSeam-QuickPrime-Plus-125ml-250ml_b1bbb449-5455-494d-83ed-0a2fe0fb4c38.jpg?v=1734618713</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>29.99 GBP</g:price>
       <g:brand><![CDATA[Gordon Low]]></g:brand>
       <g:condition>new</g:condition>
@@ -3822,7 +3822,7 @@
       <g:description><![CDATA[The Oase PE 1000 Preformed ponds are natural ponds with several planting and marsh zones. There is a bio-edge for marsh plants around the part of the perimeter to create a natural pond margin. They are made from high-quality and long-lasting 3-4mm thick polyethylene (PE) that is of course friendly to the environment, animals and plants and are UV and frost resistance. They include various plant levels, marsh zones for creating a natural waterside-look. Oase 1000 Preformed ponds are easy to install and come with a 15 year guarantee. Oase PE 1000 - Preformed Pond Dimensions Longest Length: 240cm - Widest Width: 140cm - Max Depth: 57cm Marsh Zone Depth: 11.5cm Shelf Depth: 16cm & 45cm Capacity: 1000 Litres Preformed Pond Installation. Please note that ALL of our pre-formed ponds must be fully supported and can't be used as FREESTANDING ponds (see our installation guide tab below). However, provided they receive enough support (using a strong support framework) they can be used above ground. If you would like to finish this pond with edging stones or slabs, it has a perimeter of approximately 7.0m 15 Year Anti-Perforation Guarantee The Oase PE 1000 Preformed pond is covered by a 15 Year anti-perforation guarantee which is valid in the event of faulty workmanship or materials. Proof of purchase must be returned, with the pond, to the point of purchase. Perforation due to incorrect installation will invalidate the guarantee, and no liability can be accepted, under any circumstances, for consequential losses or costs. Your statutory rights remain unaffected.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-pe-1000-preformed-pond</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-PE-1000-Preformed-Pond-Pic1_7feaf315-b741-41f9-a3fb-7412f932a102.jpg?v=1734618054</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>364.98 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>36770</g:mpn>
@@ -9367,7 +9367,7 @@
       <g:description><![CDATA[Flexible Pipework Reducing Unions allow you to connect 25mm (1") flexible pipe to 20mm (¾") flexible pipe. We recommend that Jubilee clips are used to ensure a watertight connection.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/flexible-pipework-reducing-union-25mm-1-inch-to-20mm-inch</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Hozelock-HZH038-Reducing-Hose-Connector-25mm-x-20mm-100-000-358_5521f97e-dc6a-46ad-803b-c7cd1601d8e8.jpg?v=1734615700</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.29 GBP</g:price>
       <g:brand><![CDATA[Hozelock]]></g:brand>
       <g:mpn>100-000-358</g:mpn>
@@ -17722,7 +17722,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase AquaSkim 20 - 40 Hosetail Connection Pack (35304), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-aquaskim-20-40-hosetail-connection-pack-35304</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS870-AquaSkim-20-40-Hosetail-Connection-Pack-35304_de1ddfd4-fda1-4d18-b124-82cf6741ab6c.jpg?v=1734616459</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.43 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>35304</g:mpn>
@@ -22744,7 +22744,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase PondoVac 3 / 4 / 5 Surface Brush (44025), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-pondovac-3-4-5-surface-brush-44025</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS779-PondoVac-3-4-5-Surface-Brush-44025_eed242fe-d63f-44e1-8498-813f96b13741.jpg?v=1734618130</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>20.82 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>44025</g:mpn>
@@ -26033,7 +26033,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase Bitron C 110 - Electrical End Cap (31002), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-bitron-c-110-electrical-end-cap-31002</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS726-Bitron-C-110-Electrical-End-Cap-31002_e113e3ac-4bcd-4aca-aa86-2b36938640d0.jpg?v=1734617110</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>227.42 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>31002</g:mpn>
@@ -35091,7 +35091,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase BioTec 36 / ScreenMatic 36 - Drain Lever Plug (35255), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-biotec-36-screenmatic-36-drain-lever-plug-35255</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS604-BioTec-36-ScreenMatic-36-Drain-Lever-Plug-35255_7d2a6ae7-faee-4591-a64f-627e22e1ee68.jpg?v=1734616960</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.12 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>35255</g:mpn>
@@ -37144,7 +37144,7 @@
       <g:description><![CDATA[The Oase BioTec 40000 ScreenMatic 2 - Complete Filtration Systems are complete kits that come with the state of the art BioTec ScreenMatic 2 40000 Pond Filter, Bitron 36C Ultra Violet lights and the Aquamax Eco Premium 13000 Filter Pump. With the introduction of the BioTec ScreenMatic 2 Filters Oase have shown that they are always innovating and improving their pond filters. The Biotec ScreenMatic 2 range now features an improved coarse debris system and electronic control system. Simple operation, fast, clean maintenance and outstanding filtration are the results. A specially designed sieve catches all debris particles above 300 microns that arrive in the filter. The sieve has been designed as a belt which rotates when dirty via a built-in 12v motor and is scraped clean as it turns. The dirt build up on the screen is monitored by a new sensor system which only operates the 12v motor when needed, thus saving running costs and wear and tear. The waste falls in to an increased capacity tray for disposal. The water which is enriched with oxygen, then falls into the chamber below, flows through the filter zones and then reaches the next filter chamber. The friendly filter bacteria present in the pond water settle and multiply in the oxygen rich sponges. The individual chamber situated just in front of the outlet holds a number of Zeolite filled cartridges which are ideal when starting up the filter. Once established the material inside can be changed to Phosless (not supplied) which will help prevent algae growth in the pond. Each filter is also supplied with a plunger to allow for easy cleaning of the foam cartridges and a brush to aid cleaning of the belt. Once the foams have been squeezed out a valve is pulled and the dirty water drains from the tank. The drain is at the bottom of the BioTec ScreenMatic 2 Filter is 50mm. The Oase BioTec 40000 ScreenMatic 2 Pond Filter Units and Bitron 36C UV's are supplied with a 2 year guarantee which can be upgraded to 3 years by registering your purchase with Oase. However the included Oase Aquamax Eco Eco Premium pumps are covered by a 3 year guarantee, which can be extended to 5 years free of charge, simply by sending the warranty card off to Oase. Oase Biotec ScreenMatic 2 40000 Pond Filter Features Intelligent filter system for fish ponds up to 20m³ (20000 litres) The automatic coarse debris extraction using "conveyer belt" sieve technology High quality filter sponges for biological filtration Intelligent control functions Simple plug and play operation 300 µm first stage cleaning sieves Pollutant discharge using included slide valve Oase Bitron 36C UV The Bitron C range of UV's are the result of many years of intensive research, which have culminated in this state of the art design. These ultra violet clarifiers are supplied with one inlet and two outlets. Both outlets have regulator values and by adjusting these you can control the amount of water which passes over the light. This enables the most efficient use of the light giving the best results. The build up of limescale in an ultra violet is well known for substantially reducing the effectiveness of a unit. This problem had been overcome in the Bitron C in two ways. Firstly the permanent magnets reduce the build up limescale in the whole pond system including pumps. Secondly a continuously spinning cleaning device, which is powered using the water flow, ensures that no build up, even silt, starts on the quartz sleeve. Each model has an integrated indicator light or window allowing you to quickly see if the bulb is working. Supplied with a 2 year guarantee, hose clips. Top Quality Oase AquaMax Eco Premium 13000 Filter Pumps The Oase AquaMax Eco Premium 5000 - 21000 are the very latest version of Oases' high performance AquaMax Eco range of solid handling pond filter pumps. In 2024 Oase have redesigned the motor for the Aquamax Eco Premiums resulting in a quieter, more energy efficient pumps, saving 14% - 24% of the running costs (depending on the model) which should also help them last longer than their older models (that is saying something). The new motors have what Oase call "Core 6 Technology" which means they have six windings instead of the traditional 4, these windings have also been curved which produces smoother running, adding to their efficiency and also making them quieter. These new Oase AquaMax Eco Premium OC pumps also feature impellers that have been improved and are now effectively handmade with glass-fibre reinforced plastic making them much stronger and allowing them to take solids of up to 11mm in size. All of the new AquaMax Eco Premium OC pumps can now be controlled electronically via the Oase Smart Phone App using the DMX technology which is available in their OC ("Oase Control" system, formerly known as EGC) range of products. Individual pumps can be controlled using an Oase Eco Pump Control or if the pump is part of an installation using other OC products which can be remotely controlled ]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-biotec-screenmatic-2-40000-full-kits</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-BioTec-40000-ScreenMatic-2-Pond-Filter-Set-Pic1_e320ba9b-b79a-4d97-9b67-c3fdc95b8e64.jpg?v=1762961144</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1496.24 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>74447</g:mpn>
@@ -38073,7 +38073,7 @@
       <g:description><![CDATA[This Oase Control Cable Adapter connects to the female control connection of an Aquamax Eco Premium pump and by creating an "in" and "out" connection it allows you to "daisy chain" the control signal on to any other Oase Control compatible product, overcomming the single control connection of the Aquamax Eco Premium pump. This adator is part of the OASE Control (previously called "Easy Garden Control (EGC)") range which allows remote monitoring and control via free access to the OASE Cloud. This allows you to communicate with your pond whilst away from home. See the "More Info" tab below for other OC (EGC) compatible products.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-control-cable-adapter</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAE077-OC-EGC-Control-Adapter-88443-Pic1.jpg?v=1739531926</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>69.99 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>88443</g:mpn>
@@ -43412,7 +43412,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase BioTec 36 / ScreenMatic 36 - Drain Lever Plug (35255) For A Oase BioTec ScreenMatic 2 - 140000, which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-biotec-36-screenmatic-36-drain-lever-plug-35255-for-a-oase-biotec-screenmatic-2-140000</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS604-BioTec-36-ScreenMatic-36-Drain-Lever-Plug-35255_2dc6e1c6-6e3b-497e-9154-7810ce75c40b.jpg?v=1740138583</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.12 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>35255</g:mpn>
@@ -45848,7 +45848,7 @@
       <g:description><![CDATA[This is a genuine replacement Oase PondoVac 5 Vacuum - Surface Brush (44025), which is supplied to us by Oase to ensure full compatibility with your original product]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/oase-pondovac-5-vacuum-surface-brush-44025</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Oase-OAS779-PondoVac-3-4-5-Surface-Brush-44025_1ade0191-b3b5-4282-abbf-232b414b62c6.jpg?v=1740138794</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>20.82 GBP</g:price>
       <g:brand><![CDATA[Oase]]></g:brand>
       <g:mpn>44025</g:mpn>
@@ -56193,7 +56193,7 @@
       <g:description><![CDATA[This 6V AC/DC indoor transformer has a 5m cable with a Jack plug style connector which measures 5.5mm diameter and 12mm long. This 6V AC/DC mains adaptor is used instead of the original solar panel and is suitable for use with older Smart Solar water features, not the new design with a threaded connection.]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/smart-solar-6v-ac-dc-solar-pump-mains-adaptor</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/P_Smart-Solar-5v-6v-AC-DC-Mains-Adaptor-Pic1_f566df87-e2f1-4d57-b85b-6f2c8d592829.jpg?v=1734618738</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
       <g:brand><![CDATA[Smart Solar]]></g:brand>
       <g:mpn>805UKMO1</g:mpn>
@@ -57992,7 +57992,7 @@
       <g:description><![CDATA[The Bermuda Flexible Pipe 3 Way Flow Adjuster is a Y connector designed to split the water flow from one pond pump into two separate outlets. It is useful when running two water features from a single pump, such as two waterfalls or a fountain and waterfall combination. The adjuster includes a choice of inlet fittings to suit different installation requirements, along with two adjustable outlet valves. Each outlet can be controlled independently, allowing the flow to each connected feature to be reduced or completely shut off if required. Bermuda Flexible Pipe 3 Way Flow Adjuster Features Allows one pump to feed two separate water outlets Suitable for splitting flow between two waterfalls or a fountain and waterfall Includes multiple inlet connection options for flexible installation Outlet hosetails accept 25mm, 32mm and 40mm flexible hose Each outlet has an adjustable valve for independent flow control Includes a strainer cage that can be threaded onto either outlet The inlet side includes three possible connector options. These include a stepped hosetail for 32mm, 40mm and 50mm hose, a hosetail with a ball joint connection for 25mm, 32mm and 40mm hose, and a female 1½" BSP threaded nut for direct connection to a compatible pump. Both outlets are fitted with hosetails suitable for 25mm, 32mm and 40mm hose. The built-in valves make it easier to balance the flow between two features, which can be especially helpful where one outlet needs more water than the other. Technical Specifications Product type: 3 way pond pump flow adjuster Inlet connection option 1: Hosetail for 32mm, 40mm and 50mm hose Inlet connection option 2: Ball joint hosetail for 25mm, 32mm and 40mm hose Inlet connection option 3: Female 1½" BSP threaded pump connection Outlet connections: 25mm, 32mm and 40mm hosetails Outlet control: Independent valve on each outlet Includes: Threaded strainer cage for use on either outlet]]></g:description>
       <g:link>https://www.watergardeningdirect.com/products/bermuda-flexible-pipe-3-way-flow-adjuster</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0854/4914/6642/files/Bermuda-Flexible-Pipe-3-Way-Flow-Adjuster-Pic1.jpg?v=1781169076</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>24.99 GBP</g:price>
       <g:brand><![CDATA[Bermuda]]></g:brand>
       <g:mpn>BER1083</g:mpn>
